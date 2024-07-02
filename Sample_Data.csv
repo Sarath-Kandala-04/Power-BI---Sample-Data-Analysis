@@ -1,1 +1,1095 @@
-
+Sales Person,Country,Product,Date,Amount,Boxes Shipped
+Parasuramudu Jamakayala,UK,Mint Chip Choco,04-Jan-22,"$5,320 ",180
+Yedukondalu Panditula,India,85% Dark Bars,01-Aug-22,"$7,896 ",94
+Devsena Veluvalapalli,India,Peanut Butter Cubes,07-Jul-22,"$4,501 ",91
+Gopal Venkata,Australia,Peanut Butter Cubes,27-Apr-22,"$12,726 ",342
+Parasuramudu Jamakayala,UK,Peanut Butter Cubes,24-Feb-22,"$13,685 ",184
+Yedukondalu Panditula,India,Smooth Sliky Salty,06-Jun-22,"$5,376 ",38
+Vasavi Veeravasarapu,UK,99% Dark & Pure,25-Jan-22,"$13,685 ",176
+Mayur Kousika,Australia,After Nines,24-Mar-22,"$3,080 ",73
+Parasuramudu Jamakayala,New Zealand,50% Dark Bites,20-Apr-22,"$3,990 ",59
+Dinanath Simhambhatla,Australia,99% Dark & Pure,04-Jul-22,"$2,835 ",102
+Nazeer Basha Mustafa,UK,Smooth Sliky Salty,13-Jan-22,"$4,704 ",62
+Venkat Kodi,USA,Orange Choco,10-Mar-22,"$3,703 ",11
+Raghuveer Yettugunna,Canada,Eclairs,13-Jan-22,"$1,442 ",286
+Sahaj Jonnalagadda,New Zealand,Drinking Coco,28-Jul-22,$168 ,156
+Gowri Sankar Chakrala,New Zealand,Peanut Butter Cubes,03-Aug-22,"$8,379 ",173
+Suman Katte,Australia,Organic Choco Syrup,26-Jan-22,"$6,790 ",356
+Yedukondalu Panditula,Canada,Organic Choco Syrup,14-Feb-22,"$4,067 ",42
+Prasanna Lakshmi Payasam,USA,Smooth Sliky Salty,05-Apr-22,"$3,017 ",140
+Suman Katte,Canada,Milk Bars,16-Feb-22,"$8,799 ",250
+Jaipal Potanapudi,UK,85% Dark Bars,08-Jun-22,"$1,085 ",172
+Dinanath Simhambhatla,Australia,Eclairs,27-Jun-22,"$6,888 ",88
+Mayur Kousika,USA,Spicy Special Slims,17-Feb-22,"$1,267 ",157
+Gowri Sankar Chakrala,USA,After Nines,30-May-22,"$4,753 ",163
+Duran Appala,UK,Drinking Coco,14-Mar-22,"$3,003 ",113
+Lalitchandra Vadali,Australia,Eclairs,28-Feb-22,"$7,672 ",115
+Sahaj Jonnalagadda,India,Fruit & Nut Bars,26-Jan-22,$168 ,321
+Prasanna Lakshmi Payasam,Canada,Spicy Special Slims,09-Feb-22,"$1,652 ",186
+Duran Appala,USA,Eclairs,07-Jul-22,"$4,025 ",112
+John Joseph,New Zealand,White Choc,05-Jul-22,"$9,492 ",151
+John Joseph,New Zealand,Manuka Honey Choco,15-Jun-22,"$5,061 ",301
+Yedukondalu Panditula,New Zealand,85% Dark Bars,24-May-22,"$1,722 ",121
+Nazeer Basha Mustafa,UK,99% Dark & Pure,29-Jun-22,"$12,446 ",150
+Oorjit Nandanavanam,Australia,Manuka Honey Choco,11-May-22,"$4,284 ",94
+Sahaj Jonnalagadda,UK,Almond Choco,30-Jun-22,"$6,839 ",133
+Ponnan Delhi,Canada,After Nines,11-May-22,"$2,163 ",70
+Prasanna Lakshmi Payasam,USA,Manuka Honey Choco,22-Jul-22,"$9,583 ",315
+Ponnan Delhi,UK,50% Dark Bites,24-Aug-22,"$2,653 ",314
+Subbarao Malladi,New Zealand,After Nines,07-Jul-22,$147 ,72
+Sravanthi Chalaki,Australia,85% Dark Bars,19-May-22,"$3,654 ",14
+Sahaj Jonnalagadda,India,Manuka Honey Choco,04-Jul-22,"$2,443 ",581
+Subbarao Malladi,USA,After Nines,02-Jun-22,$938 ,16
+Sahaj Jonnalagadda,USA,Raspberry Choco,15-Apr-22,"$14,749 ",354
+Raghuveer Yettugunna,Canada,Choco Coated Almonds,11-Jul-22,"$4,781 ",241
+Ponnan Delhi,India,Spicy Special Slims,23-Feb-22,"$6,307 ",142
+Sreenivasa Naik Gudiwada,Canada,Almond Choco,22-Aug-22,"$7,602 ",102
+Lalitchandra Vadali,USA,Peanut Butter Cubes,16-Feb-22,"$6,790 ",188
+Yedukondalu Panditula,USA,50% Dark Bites,13-Jan-22,"$9,737 ",160
+Jaipal Potanapudi,Australia,Milk Bars,14-Feb-22,"$6,979 ",18
+Prasanna Lakshmi Payasam,India,Eclairs,10-Jun-22,"$4,382 ",303
+Jaipal Potanapudi,India,Fruit & Nut Bars,07-Jul-22,"$5,243 ",176
+Jaipal Potanapudi,Canada,Almond Choco,24-Mar-22,"$4,865 ",70
+Dinanath Simhambhatla,Australia,Fruit & Nut Bars,06-Jun-22,"$8,575 ",23
+Ramalingam Kothapeta,Australia,Drinking Coco,19-Jul-22,$91 ,135
+Suman Katte,USA,Raspberry Choco,19-Apr-22,"$14,798 ",83
+Gowri Sankar Chakrala,India,85% Dark Bars,19-Jul-22,"$2,205 ",179
+Parasuramudu Jamakayala,Canada,Drinking Coco,15-Jul-22,$441 ,24
+Devrat Damarsingh,New Zealand,Spicy Special Slims,14-Feb-22,"$3,556 ",18
+Dinanath Simhambhatla,Canada,99% Dark & Pure,18-May-22,"$16,793 ",416
+Venkat Kodi,Australia,Fruit & Nut Bars,30-Jun-22,"$15,421 ",55
+Ponnan Delhi,Australia,50% Dark Bites,02-Jun-22,"$4,438 ",227
+Ponnan Delhi,Australia,Drinking Coco,28-Jun-22,"$1,603 ",48
+Gowri Sankar Chakrala,Australia,Organic Choco Syrup,16-May-22,$273 ,174
+Subbarao Malladi,Canada,Baker's Choco Chips,26-May-22,"$3,073 ",302
+Sahaj Jonnalagadda,India,Almond Choco,06-Jul-22,"$6,090 ",149
+Vasavi Veeravasarapu,India,99% Dark & Pure,27-May-22,"$10,255 ",11
+Oorjit Nandanavanam,Australia,Caramel Stuffed Bars,14-Apr-22,"$2,030 ",11
+Yedukondalu Panditula,Australia,Organic Choco Syrup,10-Aug-22,"$19,453 ",14
+Sravanthi Chalaki,India,50% Dark Bites,04-Jul-22,"$9,275 ",411
+Vasavi Veeravasarapu,India,Organic Choco Syrup,08-Jul-22,"$6,181 ",56
+Gopal Venkata,USA,Peanut Butter Cubes,22-Jul-22,"$9,037 ",102
+Devsena Veluvalapalli,USA,Choco Coated Almonds,02-Mar-22,"$12,313 ",103
+Devsena Veluvalapalli,UK,Almond Choco,10-Jan-22,"$5,642 ",9
+Parasuramudu Jamakayala,New Zealand,White Choc,11-Mar-22,"$2,800 ",241
+Ponnan Delhi,New Zealand,Peanut Butter Cubes,20-Jun-22,$959 ,265
+Yedukondalu Panditula,UK,Organic Choco Syrup,26-Aug-22,"$2,002 ",214
+Prasanna Lakshmi Payasam,Canada,Milk Bars,13-Jul-22,$609 ,32
+Sravanthi Chalaki,USA,Spicy Special Slims,11-Feb-22,"$1,274 ",244
+Gowri Sankar Chakrala,USA,Orange Choco,27-Jan-22,"$7,595 ",181
+Yedukondalu Panditula,UK,99% Dark & Pure,31-Jan-22,"$4,725 ",137
+Sravanthi Chalaki,USA,White Choc,18-Aug-22,"$9,681 ",24
+Ponnan Delhi,USA,Raspberry Choco,30-Jun-22,"$14,504 ",21
+Ramalingam Kothapeta,Australia,Fruit & Nut Bars,23-Aug-22,$280 ,311
+Dinanath Simhambhatla,New Zealand,Mint Chip Choco,01-Aug-22,$63 ,181
+Prasanna Lakshmi Payasam,New Zealand,After Nines,25-May-22,"$8,001 ",10
+Prasanna Lakshmi Payasam,Canada,Organic Choco Syrup,10-Jan-22,"$4,032 ",82
+John Joseph,Australia,70% Dark Bites,07-Feb-22,"$5,859 ",108
+Sahaj Jonnalagadda,USA,Orange Choco,12-May-22,"$11,095 ",401
+Sreenivasa Naik Gudiwada,Australia,Spicy Special Slims,07-Mar-22,"$7,182 ",408
+John Joseph,Australia,85% Dark Bars,05-Apr-22,"$6,881 ",420
+Ponnan Delhi,Canada,Caramel Stuffed Bars,03-Jan-22,"$7,154 ",348
+John Joseph,UK,Eclairs,24-Mar-22,"$6,188 ",270
+Sreenivasa Naik Gudiwada,India,Raspberry Choco,07-Jul-22,"$4,221 ",9
+Yedukondalu Panditula,USA,After Nines,26-Jul-22,$630 ,264
+Oorjit Nandanavanam,Australia,Organic Choco Syrup,07-Jul-22,"$1,743 ",111
+Sahaj Jonnalagadda,Canada,50% Dark Bites,15-Jul-22,"$2,919 ",65
+Prasanna Lakshmi Payasam,New Zealand,Orange Choco,01-Apr-22,$49 ,97
+Suman Katte,Australia,Eclairs,20-Jun-22,"$1,827 ",6
+Subbarao Malladi,UK,Fruit & Nut Bars,29-Jun-22,"$13,006 ",482
+Gowri Sankar Chakrala,USA,50% Dark Bites,15-Jun-22,"$1,064 ",106
+Duran Appala,USA,After Nines,08-Apr-22,"$11,571 ",180
+John Joseph,Australia,Raspberry Choco,14-Mar-22,"$5,740 ",31
+Ponnan Delhi,USA,Fruit & Nut Bars,15-Jul-22,"$1,456 ",359
+Subbarao Malladi,India,Eclairs,19-Apr-22,"$5,334 ",80
+Gowri Sankar Chakrala,USA,99% Dark & Pure,28-Mar-22,"$4,151 ",296
+Dinanath Simhambhatla,Canada,Spicy Special Slims,04-Mar-22,"$8,106 ",101
+Sahaj Jonnalagadda,New Zealand,70% Dark Bites,02-Aug-22,$126 ,40
+Duran Appala,UK,Spicy Special Slims,25-Aug-22,"$4,697 ",42
+Gowri Sankar Chakrala,USA,Almond Choco,25-Feb-22,"$7,798 ",167
+Subbarao Malladi,India,Orange Choco,07-Jun-22,"$9,408 ",138
+Gopal Venkata,India,Spicy Special Slims,12-Apr-22,"$1,939 ",520
+Devrat Damarsingh,India,Spicy Special Slims,06-Jul-22,"$10,906 ",94
+Subbarao Malladi,UK,Smooth Sliky Salty,19-Jan-22,"$5,929 ",175
+Sreenivasa Naik Gudiwada,Australia,Fruit & Nut Bars,05-Jan-22,"$5,579 ",92
+Sreenivasa Naik Gudiwada,Canada,70% Dark Bites,24-Jan-22,"$10,927 ",141
+Oorjit Nandanavanam,Australia,Drinking Coco,06-Apr-22,$623 ,283
+Mayur Kousika,Australia,Fruit & Nut Bars,15-Jun-22,"$6,013 ",21
+Devsena Veluvalapalli,Canada,Baker's Choco Chips,28-Jan-22,"$1,505 ",47
+Subbarao Malladi,India,Caramel Stuffed Bars,16-Mar-22,$476 ,125
+Nazeer Basha Mustafa,Australia,Drinking Coco,21-Feb-22,"$11,550 ",396
+Subbarao Malladi,USA,Manuka Honey Choco,16-Feb-22,"$17,318 ",87
+Parasuramudu Jamakayala,Canada,Spicy Special Slims,13-Jan-22,"$1,848 ",27
+Subbarao Malladi,Australia,Eclairs,23-Mar-22,"$7,273 ",547
+Jaipal Potanapudi,Canada,Spicy Special Slims,16-Jun-22,$854 ,118
+Vasavi Veeravasarapu,India,Raspberry Choco,14-Apr-22,"$6,832 ",46
+Subbarao Malladi,UK,Eclairs,25-Jan-22,"$4,606 ",57
+Gopal Venkata,India,Almond Choco,11-Mar-22,"$4,466 ",22
+Ramalingam Kothapeta,UK,Almond Choco,28-Jul-22,"$16,114 ",96
+Gowri Sankar Chakrala,New Zealand,After Nines,09-Mar-22,"$1,561 ",44
+Duran Appala,Australia,Orange Choco,28-Jun-22,"$8,897 ",188
+Gowri Sankar Chakrala,Australia,Milk Bars,28-Jul-22,"$2,464 ",387
+Subbarao Malladi,Canada,99% Dark & Pure,15-Aug-22,"$4,830 ",50
+Lalitchandra Vadali,Australia,Manuka Honey Choco,12-Jan-22,"$2,765 ",264
+Suman Katte,New Zealand,White Choc,24-Mar-22,"$7,126 ",7
+Yedukondalu Panditula,UK,Milk Bars,25-Jul-22,"$4,263 ",90
+Vasavi Veeravasarapu,Canada,99% Dark & Pure,01-Aug-22,"$3,605 ",403
+Yedukondalu Panditula,India,Organic Choco Syrup,16-May-22,"$19,929 ",174
+Prasanna Lakshmi Payasam,India,Smooth Sliky Salty,10-Aug-22,"$5,103 ",140
+Gopal Venkata,India,Eclairs,05-Jan-22,"$2,541 ",27
+Devrat Damarsingh,UK,Smooth Sliky Salty,11-Jul-22,"$5,663 ",110
+Oorjit Nandanavanam,USA,After Nines,25-Apr-22,$392 ,30
+Devsena Veluvalapalli,New Zealand,Fruit & Nut Bars,04-Apr-22,"$10,976 ",121
+Venkat Kodi,USA,Raspberry Choco,12-Apr-22,"$9,282 ",101
+Oorjit Nandanavanam,New Zealand,85% Dark Bars,02-Aug-22,"$1,827 ",117
+Devsena Veluvalapalli,New Zealand,Manuka Honey Choco,28-Jun-22,"$8,267 ",272
+Devrat Damarsingh,Australia,Eclairs,05-Jul-22,"$4,116 ",128
+Nazeer Basha Mustafa,New Zealand,Choco Coated Almonds,07-Jun-22,"$2,093 ",45
+Dinanath Simhambhatla,New Zealand,Smooth Sliky Salty,18-Jan-22,"$1,015 ",27
+Dinanath Simhambhatla,Australia,Baker's Choco Chips,04-Jan-22,"$12,516 ",212
+John Joseph,Australia,99% Dark & Pure,31-Jan-22,"$2,758 ",18
+Subbarao Malladi,India,Almond Choco,14-Mar-22,"$3,297 ",149
+Sravanthi Chalaki,Australia,70% Dark Bites,29-Apr-22,"$6,048 ",477
+Vasavi Veeravasarapu,India,Smooth Sliky Salty,07-Feb-22,"$10,101 ",108
+Lalitchandra Vadali,UK,Organic Choco Syrup,31-Mar-22,"$2,282 ",178
+Gowri Sankar Chakrala,India,Caramel Stuffed Bars,16-Mar-22,"$4,361 ",81
+Sahaj Jonnalagadda,UK,Eclairs,25-Jan-22,"$7,798 ",196
+Yedukondalu Panditula,India,Baker's Choco Chips,20-Jun-22,"$3,052 ",447
+Devsena Veluvalapalli,UK,After Nines,29-Mar-22,"$8,029 ",175
+Jaipal Potanapudi,Australia,Orange Choco,12-Jul-22,$854 ,136
+Parasuramudu Jamakayala,Canada,Smooth Sliky Salty,11-Jul-22,"$5,460 ",138
+Sahaj Jonnalagadda,Canada,Smooth Sliky Salty,19-Jan-22,"$3,017 ",184
+Ponnan Delhi,USA,85% Dark Bars,05-Apr-22,"$8,911 ",82
+Parasuramudu Jamakayala,Canada,Milk Bars,21-Feb-22,"$7,203 ",12
+Nazeer Basha Mustafa,New Zealand,Caramel Stuffed Bars,20-May-22,"$13,083 ",14
+Raghuveer Yettugunna,Australia,Milk Bars,29-Jul-22,"$2,779 ",104
+Venkat Kodi,USA,Fruit & Nut Bars,28-Jan-22,"$9,058 ",46
+Gowri Sankar Chakrala,UK,Caramel Stuffed Bars,19-Jul-22,"$3,549 ",112
+Raghuveer Yettugunna,New Zealand,Manuka Honey Choco,13-Apr-22,"$9,436 ",11
+Prasanna Lakshmi Payasam,India,Peanut Butter Cubes,11-Feb-22,"$10,283 ",21
+Prasanna Lakshmi Payasam,New Zealand,Milk Bars,02-Mar-22,"$5,446 ",116
+Devrat Damarsingh,Australia,White Choc,02-Mar-22,"$1,043 ",202
+Yedukondalu Panditula,USA,99% Dark & Pure,28-Jul-22,"$12,586 ",6
+Subbarao Malladi,India,After Nines,07-Jan-22,"$1,687 ",520
+Dinanath Simhambhatla,UK,White Choc,12-Apr-22,"$5,299 ",167
+Yedukondalu Panditula,Canada,Almond Choco,27-Jun-22,"$3,213 ",72
+Parasuramudu Jamakayala,Australia,50% Dark Bites,14-Jan-22,"$5,194 ",418
+Sahaj Jonnalagadda,UK,Baker's Choco Chips,07-Feb-22,"$4,753 ",389
+Parasuramudu Jamakayala,Australia,Orange Choco,23-Mar-22,"$13,706 ",26
+Gowri Sankar Chakrala,India,Peanut Butter Cubes,10-Jan-22,"$6,489 ",146
+Vasavi Veeravasarapu,UK,Choco Coated Almonds,17-Mar-22,"$9,324 ",41
+Devsena Veluvalapalli,USA,Spicy Special Slims,21-Jan-22,"$10,829 ",54
+Venkat Kodi,Australia,White Choc,04-Jul-22,"$8,113 ",370
+Lalitchandra Vadali,Canada,Peanut Butter Cubes,04-Jul-22,"$3,269 ",176
+Ramalingam Kothapeta,USA,Manuka Honey Choco,10-Aug-22,$273 ,210
+John Joseph,Australia,50% Dark Bites,01-Apr-22,"$7,287 ",12
+Devsena Veluvalapalli,India,Raspberry Choco,22-Feb-22,"$2,583 ",159
+Sravanthi Chalaki,UK,White Choc,03-Jan-22,"$9,982 ",187
+Sahaj Jonnalagadda,India,Drinking Coco,31-May-22,"$4,795 ",233
+Ramalingam Kothapeta,UK,99% Dark & Pure,03-Jan-22,"$9,310 ",282
+Duran Appala,New Zealand,Caramel Stuffed Bars,27-Jan-22,$497 ,475
+Venkat Kodi,UK,50% Dark Bites,28-Jan-22,$581 ,65
+Jaipal Potanapudi,Australia,Organic Choco Syrup,28-Jun-22,"$3,472 ",311
+Duran Appala,UK,Choco Coated Almonds,02-Mar-22,"$4,333 ",43
+Oorjit Nandanavanam,Australia,After Nines,27-May-22,"$3,325 ",26
+John Joseph,USA,Almond Choco,30-Jun-22,"$11,718 ",84
+Venkat Kodi,Canada,Peanut Butter Cubes,07-Jun-22,"$2,100 ",78
+Lalitchandra Vadali,USA,70% Dark Bites,12-May-22,"$4,018 ",100
+Venkat Kodi,New Zealand,Raspberry Choco,29-Jul-22,"$6,468 ",66
+John Joseph,UK,White Choc,03-Aug-22,"$7,238 ",265
+Venkat Kodi,India,Baker's Choco Chips,18-Aug-22,"$6,454 ",141
+Yedukondalu Panditula,New Zealand,Smooth Sliky Salty,14-Jun-22,"$3,115 ",42
+Suman Katte,UK,White Choc,30-Jun-22,"$6,475 ",76
+Sravanthi Chalaki,New Zealand,Mint Chip Choco,13-Jun-22,"$1,162 ",190
+Devrat Damarsingh,UK,Orange Choco,27-Apr-22,"$14,238 ",54
+Gopal Venkata,Australia,White Choc,27-Jul-22,"$3,472 ",32
+Raghuveer Yettugunna,Canada,85% Dark Bars,20-Apr-22,"$1,428 ",424
+Nazeer Basha Mustafa,India,Spicy Special Slims,04-Jan-22,"$8,064 ",134
+Devrat Damarsingh,Australia,Mint Chip Choco,21-Feb-22,"$9,660 ",92
+Sahaj Jonnalagadda,Australia,White Choc,05-Jan-22,"$7,357 ",48
+Suman Katte,India,Drinking Coco,15-Jul-22,"$6,055 ",46
+Dinanath Simhambhatla,Australia,Choco Coated Almonds,25-May-22,"$5,124 ",62
+Sahaj Jonnalagadda,Canada,Eclairs,20-Apr-22,"$3,479 ",358
+Devsena Veluvalapalli,USA,99% Dark & Pure,02-Jun-22,$784 ,249
+Gowri Sankar Chakrala,UK,Smooth Sliky Salty,13-May-22,"$18,991 ",88
+Suman Katte,New Zealand,Baker's Choco Chips,03-Aug-22,"$1,372 ",144
+Suman Katte,Australia,Milk Bars,25-May-22,$735 ,390
+Yedukondalu Panditula,UK,Raspberry Choco,16-Mar-22,"$6,538 ",79
+Gopal Venkata,Australia,Orange Choco,04-Jul-22,"$3,199 ",122
+Parasuramudu Jamakayala,India,50% Dark Bites,05-Jul-22,"$3,472 ",135
+Sreenivasa Naik Gudiwada,USA,After Nines,15-Mar-22,"$4,571 ",430
+Venkat Kodi,UK,Raspberry Choco,22-Aug-22,"$5,481 ",69
+Devrat Damarsingh,Australia,70% Dark Bites,12-Jan-22,"$3,136 ",125
+Gowri Sankar Chakrala,UK,Baker's Choco Chips,10-Jun-22,$252 ,154
+Lalitchandra Vadali,Australia,Peanut Butter Cubes,25-Mar-22,"$5,460 ",286
+Nazeer Basha Mustafa,India,Almond Choco,27-Jul-22,"$3,395 ",99
+Duran Appala,UK,Caramel Stuffed Bars,15-Apr-22,"$14,938 ",433
+Prasanna Lakshmi Payasam,India,Orange Choco,27-Jun-22,"$4,053 ",19
+Parasuramudu Jamakayala,UK,70% Dark Bites,14-Apr-22,"$5,565 ",258
+Duran Appala,Australia,Manuka Honey Choco,15-Mar-22,"$7,161 ",92
+Sreenivasa Naik Gudiwada,USA,Eclairs,18-Mar-22,"$8,883 ",200
+Dinanath Simhambhatla,India,Eclairs,29-Apr-22,"$1,351 ",61
+Raghuveer Yettugunna,New Zealand,White Choc,25-Feb-22,"$3,171 ",246
+Duran Appala,USA,Milk Bars,02-Mar-22,$854 ,56
+Yedukondalu Panditula,Australia,Milk Bars,20-Jun-22,"$7,910 ",87
+Suman Katte,Canada,White Choc,15-Jul-22,"$9,275 ",173
+Ramalingam Kothapeta,Australia,50% Dark Bites,12-May-22,"$3,108 ",252
+Raghuveer Yettugunna,New Zealand,Organic Choco Syrup,01-Jul-22,"$5,075 ",256
+Duran Appala,USA,85% Dark Bars,08-Aug-22,$378 ,54
+Sreenivasa Naik Gudiwada,Australia,50% Dark Bites,25-Jul-22,"$7,350 ",6
+Oorjit Nandanavanam,UK,Drinking Coco,18-May-22,"$3,388 ",55
+Sravanthi Chalaki,India,Peanut Butter Cubes,15-Jul-22,"$11,837 ",277
+Jaipal Potanapudi,India,70% Dark Bites,05-Jul-22,"$2,282 ",44
+Raghuveer Yettugunna,USA,Manuka Honey Choco,04-Jul-22,"$5,425 ",96
+Ramalingam Kothapeta,UK,70% Dark Bites,20-Jun-22,"$1,267 ",216
+Mayur Kousika,Australia,Almond Choco,25-Jan-22,"$3,752 ",424
+Lalitchandra Vadali,New Zealand,Spicy Special Slims,01-Jul-22,"$7,728 ",37
+Devsena Veluvalapalli,USA,50% Dark Bites,13-Apr-22,"$2,296 ",59
+Suman Katte,UK,Smooth Sliky Salty,04-May-22,"$4,403 ",76
+Suman Katte,Australia,Baker's Choco Chips,04-Aug-22,"$3,192 ",109
+Suman Katte,India,70% Dark Bites,01-Jun-22,$448 ,146
+Parasuramudu Jamakayala,UK,Choco Coated Almonds,22-Apr-22,"$4,270 ",185
+Lalitchandra Vadali,USA,50% Dark Bites,03-Aug-22,$70 ,27
+Devrat Damarsingh,USA,Orange Choco,10-Jun-22,"$1,743 ",69
+Mayur Kousika,UK,Manuka Honey Choco,27-Jun-22,"$6,762 ",46
+Gowri Sankar Chakrala,Australia,Smooth Sliky Salty,03-Jan-22,"$3,745 ",170
+Gowri Sankar Chakrala,India,After Nines,11-Jul-22,"$2,639 ",179
+Devrat Damarsingh,New Zealand,Milk Bars,17-Aug-22,"$4,389 ",126
+Nazeer Basha Mustafa,USA,Fruit & Nut Bars,18-Jan-22,"$2,604 ",65
+Devrat Damarsingh,India,Organic Choco Syrup,08-Mar-22,"$16,569 ",99
+Raghuveer Yettugunna,Australia,Orange Choco,07-Mar-22,"$14,658 ",275
+Duran Appala,India,70% Dark Bites,09-May-22,"$6,454 ",157
+Venkat Kodi,New Zealand,85% Dark Bars,23-May-22,"$2,100 ",157
+Sreenivasa Naik Gudiwada,UK,Caramel Stuffed Bars,15-Apr-22,$161 ,145
+Devsena Veluvalapalli,Australia,Drinking Coco,27-Jul-22,"$2,807 ",139
+Gowri Sankar Chakrala,Canada,Choco Coated Almonds,22-Aug-22,"$2,639 ",406
+Devrat Damarsingh,USA,70% Dark Bites,11-May-22,"$4,571 ",122
+Sreenivasa Naik Gudiwada,India,Organic Choco Syrup,26-Jan-22,"$4,781 ",38
+Venkat Kodi,USA,50% Dark Bites,14-Apr-22,"$13,034 ",117
+John Joseph,New Zealand,Mint Chip Choco,05-Apr-22,"$6,454 ",417
+Gowri Sankar Chakrala,New Zealand,Smooth Sliky Salty,14-Jun-22,"$8,484 ",57
+Dinanath Simhambhatla,Canada,Almond Choco,13-Apr-22,"$4,781 ",125
+Suman Katte,Australia,White Choc,27-Jun-22,"$2,240 ",166
+Ramalingam Kothapeta,Australia,Eclairs,26-Jan-22,"$6,979 ",3
+Venkat Kodi,UK,White Choc,05-Jul-22,"$1,652 ",72
+Suman Katte,Canada,Baker's Choco Chips,11-Jan-22,"$13,447 ",95
+Subbarao Malladi,USA,White Choc,07-Mar-22,"$9,422 ",22
+Lalitchandra Vadali,Canada,50% Dark Bites,04-Mar-22,"$8,687 ",100
+Sahaj Jonnalagadda,Canada,Organic Choco Syrup,15-Jul-22,"$2,415 ",312
+Lalitchandra Vadali,UK,Peanut Butter Cubes,11-May-22,"$6,272 ",86
+Sahaj Jonnalagadda,USA,Milk Bars,27-Jan-22,"$4,389 ",7
+Sahaj Jonnalagadda,India,Orange Choco,27-Jun-22,"$3,122 ",149
+Devrat Damarsingh,India,Smooth Sliky Salty,03-Aug-22,"$8,043 ",18
+Oorjit Nandanavanam,New Zealand,Mint Chip Choco,19-Aug-22,"$11,662 ",242
+Oorjit Nandanavanam,Australia,Fruit & Nut Bars,15-Jun-22,$392 ,102
+John Joseph,UK,Peanut Butter Cubes,07-Feb-22,"$8,925 ",158
+Sahaj Jonnalagadda,Australia,Almond Choco,08-Jul-22,"$7,294 ",128
+John Joseph,India,Milk Bars,21-Apr-22,"$1,526 ",96
+Devrat Damarsingh,UK,Mint Chip Choco,08-Apr-22,"$2,688 ",209
+Duran Appala,Australia,50% Dark Bites,19-Aug-22,"$14,889 ",52
+Gopal Venkata,India,Fruit & Nut Bars,04-May-22,"$2,912 ",55
+Raghuveer Yettugunna,USA,85% Dark Bars,11-May-22,"$2,632 ",108
+Raghuveer Yettugunna,USA,Eclairs,22-Mar-22,"$6,328 ",51
+John Joseph,Canada,Spicy Special Slims,10-Aug-22,"$2,527 ",216
+John Joseph,USA,Fruit & Nut Bars,04-May-22,"$1,414 ",318
+Subbarao Malladi,USA,99% Dark & Pure,18-Aug-22,"$7,714 ",238
+Ramalingam Kothapeta,Canada,Raspberry Choco,03-Aug-22,"$4,347 ",238
+Gowri Sankar Chakrala,New Zealand,Milk Bars,14-Jan-22,"$7,490 ",315
+Sreenivasa Naik Gudiwada,Australia,Choco Coated Almonds,08-Apr-22,"$2,058 ",72
+Subbarao Malladi,UK,Orange Choco,01-Aug-22,"$3,640 ",3
+John Joseph,Canada,Eclairs,15-Mar-22,$455 ,45
+Sahaj Jonnalagadda,India,Mint Chip Choco,15-Jul-22,"$10,990 ",184
+Venkat Kodi,New Zealand,Almond Choco,13-Jan-22,"$5,558 ",127
+Raghuveer Yettugunna,Australia,85% Dark Bars,26-Aug-22,"$2,541 ",53
+Devrat Damarsingh,Canada,Eclairs,10-Jan-22,"$1,876 ",172
+Devsena Veluvalapalli,Australia,White Choc,11-May-22,"$5,523 ",87
+Suman Katte,New Zealand,85% Dark Bars,30-Aug-22,"$11,200 ",22
+Lalitchandra Vadali,USA,Caramel Stuffed Bars,21-Jul-22,"$5,593 ",122
+Raghuveer Yettugunna,Australia,Almond Choco,01-Aug-22,"$7,882 ",125
+Dinanath Simhambhatla,Canada,85% Dark Bars,17-Feb-22,"$10,241 ",259
+Dinanath Simhambhatla,Australia,Drinking Coco,27-Jul-22,"$6,832 ",156
+Ramalingam Kothapeta,USA,Orange Choco,23-Feb-22,"$1,379 ",107
+Nazeer Basha Mustafa,Australia,50% Dark Bites,22-Mar-22,"$3,010 ",40
+John Joseph,India,99% Dark & Pure,23-Jun-22,"$6,888 ",311
+Jaipal Potanapudi,UK,White Choc,01-Feb-22,"$1,540 ",73
+Subbarao Malladi,Australia,After Nines,02-Mar-22,"$6,916 ",288
+Devsena Veluvalapalli,UK,Fruit & Nut Bars,06-Apr-22,"$1,232 ",86
+Mayur Kousika,Australia,Raspberry Choco,17-Mar-22,$602 ,72
+Jaipal Potanapudi,UK,Fruit & Nut Bars,24-Jun-22,"$10,927 ",136
+Venkat Kodi,Canada,50% Dark Bites,19-Jul-22,"$10,185 ",303
+Jaipal Potanapudi,USA,Spicy Special Slims,11-Jul-22,"$1,603 ",264
+Dinanath Simhambhatla,India,Almond Choco,13-Jan-22,"$2,170 ",218
+Vasavi Veeravasarapu,New Zealand,Smooth Sliky Salty,07-Jul-22,"$8,673 ",60
+Gopal Venkata,India,85% Dark Bars,25-May-22,"$4,760 ",418
+Gowri Sankar Chakrala,India,Fruit & Nut Bars,13-Apr-22,"$4,753 ",151
+Ponnan Delhi,New Zealand,50% Dark Bites,02-Mar-22,"$3,374 ",202
+Mayur Kousika,Canada,Raspberry Choco,23-Jun-22,"$2,058 ",126
+Subbarao Malladi,USA,Drinking Coco,26-Jul-22,"$6,454 ",160
+Yedukondalu Panditula,Canada,White Choc,22-Mar-22,$420 ,3
+Nazeer Basha Mustafa,USA,Baker's Choco Chips,09-Jun-22,"$2,863 ",58
+Yedukondalu Panditula,Australia,Caramel Stuffed Bars,17-May-22,"$5,936 ",59
+Devrat Damarsingh,New Zealand,Peanut Butter Cubes,04-Mar-22,$889 ,273
+Subbarao Malladi,Canada,Milk Bars,07-Jul-22,"$16,016 ",28
+John Joseph,Canada,Choco Coated Almonds,13-Jan-22,"$10,479 ",118
+Jaipal Potanapudi,Australia,Almond Choco,13-Jul-22,"$2,912 ",75
+Sreenivasa Naik Gudiwada,Australia,85% Dark Bars,16-Jun-22,"$1,575 ",329
+Devsena Veluvalapalli,UK,50% Dark Bites,18-Jul-22,"$8,197 ",69
+Devrat Damarsingh,UK,Manuka Honey Choco,30-May-22,"$4,221 ",395
+Devsena Veluvalapalli,UK,70% Dark Bites,21-Jun-22,$840 ,81
+Parasuramudu Jamakayala,Australia,Peanut Butter Cubes,24-Jun-22,"$5,691 ",38
+Gowri Sankar Chakrala,India,Eclairs,13-Jan-22,"$3,472 ",96
+Jaipal Potanapudi,Canada,Fruit & Nut Bars,04-Apr-22,"$4,193 ",195
+Lalitchandra Vadali,UK,Smooth Sliky Salty,08-Jun-22,"$9,016 ",554
+Sahaj Jonnalagadda,Canada,Spicy Special Slims,02-Aug-22,"$6,328 ",47
+Subbarao Malladi,USA,Organic Choco Syrup,21-Jul-22,"$9,870 ",152
+Jaipal Potanapudi,India,Spicy Special Slims,20-Jun-22,$161 ,134
+Prasanna Lakshmi Payasam,India,After Nines,22-Jun-22,"$2,576 ",112
+Sravanthi Chalaki,Australia,Caramel Stuffed Bars,02-May-22,"$3,178 ",16
+Jaipal Potanapudi,Australia,99% Dark & Pure,07-Jan-22,"$4,676 ",84
+Raghuveer Yettugunna,UK,50% Dark Bites,21-Feb-22,"$5,502 ",99
+Devrat Damarsingh,Canada,Baker's Choco Chips,21-Mar-22,"$7,462 ",371
+Yedukondalu Panditula,UK,Drinking Coco,04-Apr-22,"$5,803 ",136
+Mayur Kousika,Canada,Fruit & Nut Bars,24-Mar-22,"$13,888 ",203
+Mayur Kousika,New Zealand,Spicy Special Slims,28-Jun-22,"$6,867 ",183
+Mayur Kousika,Australia,Drinking Coco,14-Jan-22,"$2,317 ",195
+Sahaj Jonnalagadda,New Zealand,Fruit & Nut Bars,07-Feb-22,"$1,218 ",135
+John Joseph,New Zealand,Drinking Coco,11-Jan-22,"$4,109 ",197
+Parasuramudu Jamakayala,India,99% Dark & Pure,25-Feb-22,"$1,953 ",242
+Ramalingam Kothapeta,Australia,Mint Chip Choco,01-Aug-22,"$6,790 ",25
+Prasanna Lakshmi Payasam,Australia,Mint Chip Choco,05-May-22,"$6,797 ",252
+Sreenivasa Naik Gudiwada,New Zealand,Raspberry Choco,18-May-22,"$9,226 ",415
+Ramalingam Kothapeta,New Zealand,Choco Coated Almonds,04-Jan-22,"$5,733 ",348
+Prasanna Lakshmi Payasam,New Zealand,50% Dark Bites,09-May-22,"$4,312 ",211
+Nazeer Basha Mustafa,India,Smooth Sliky Salty,06-May-22,"$1,638 ",81
+Duran Appala,UK,White Choc,13-Jan-22,"$10,815 ",145
+Prasanna Lakshmi Payasam,Australia,Almond Choco,24-Jun-22,"$4,466 ",74
+Yedukondalu Panditula,USA,Caramel Stuffed Bars,14-Feb-22,$987 ,21
+Sravanthi Chalaki,Australia,99% Dark & Pure,18-Jan-22,"$4,669 ",101
+Lalitchandra Vadali,India,Milk Bars,02-May-22,"$2,905 ",91
+Devrat Damarsingh,Australia,Smooth Sliky Salty,16-May-22,"$7,490 ",54
+Raghuveer Yettugunna,USA,Almond Choco,28-Jan-22,"$6,986 ",368
+Lalitchandra Vadali,Canada,99% Dark & Pure,24-Jun-22,"$1,288 ",409
+Vasavi Veeravasarapu,UK,After Nines,18-Jul-22,"$2,345 ",104
+Mayur Kousika,UK,Eclairs,13-Apr-22,"$3,619 ",164
+Ramalingam Kothapeta,USA,Caramel Stuffed Bars,15-Apr-22,"$16,982 ",76
+Gopal Venkata,India,Peanut Butter Cubes,04-Jan-22,"$8,092 ",178
+Duran Appala,Australia,Eclairs,04-Jul-22,"$6,993 ",31
+Suman Katte,USA,Smooth Sliky Salty,24-Mar-22,"$2,317 ",352
+Sravanthi Chalaki,Australia,Manuka Honey Choco,17-Mar-22,$637 ,169
+Vasavi Veeravasarapu,Australia,Almond Choco,15-Feb-22,"$6,034 ",223
+Gopal Venkata,USA,Orange Choco,29-Jun-22,$980 ,146
+Devsena Veluvalapalli,USA,Fruit & Nut Bars,24-May-22,"$2,821 ",112
+Raghuveer Yettugunna,UK,Milk Bars,10-Jan-22,"$3,563 ",284
+Jaipal Potanapudi,USA,Raspberry Choco,15-Mar-22,"$2,996 ",139
+Gowri Sankar Chakrala,Canada,Milk Bars,08-Feb-22,"$2,436 ",309
+Dinanath Simhambhatla,India,Caramel Stuffed Bars,25-Feb-22,"$1,540 ",100
+Mayur Kousika,USA,Eclairs,03-May-22,"$6,916 ",42
+Prasanna Lakshmi Payasam,USA,Fruit & Nut Bars,14-Jun-22,"$5,509 ",24
+Mayur Kousika,India,50% Dark Bites,09-Aug-22,"$12,992 ",83
+Oorjit Nandanavanam,New Zealand,Manuka Honey Choco,11-Jul-22,"$3,724 ",234
+Lalitchandra Vadali,UK,Manuka Honey Choco,14-Jan-22,"$7,133 ",118
+Yedukondalu Panditula,Canada,Manuka Honey Choco,24-Feb-22,"$8,617 ",46
+Oorjit Nandanavanam,New Zealand,Almond Choco,15-Mar-22,"$9,198 ",144
+Vasavi Veeravasarapu,New Zealand,Baker's Choco Chips,25-Apr-22,"$11,823 ",47
+John Joseph,Australia,Organic Choco Syrup,10-May-22,"$5,775 ",41
+Gowri Sankar Chakrala,Australia,Spicy Special Slims,23-Jun-22,"$13,125 ",275
+Suman Katte,Canada,Smooth Sliky Salty,28-Feb-22,"$14,287 ",370
+Dinanath Simhambhatla,USA,Organic Choco Syrup,25-May-22,"$16,233 ",138
+Prasanna Lakshmi Payasam,New Zealand,Baker's Choco Chips,22-Feb-22,"$5,313 ",215
+Yedukondalu Panditula,UK,85% Dark Bars,11-Jul-22,"$3,577 ",134
+Gowri Sankar Chakrala,Canada,Spicy Special Slims,03-Jan-22,"$3,528 ",336
+Nazeer Basha Mustafa,New Zealand,70% Dark Bites,24-Aug-22,$679 ,280
+Suman Katte,USA,50% Dark Bites,28-Jul-22,"$2,450 ",352
+Dinanath Simhambhatla,USA,Mint Chip Choco,25-May-22,"$10,577 ",150
+Sahaj Jonnalagadda,New Zealand,Eclairs,06-May-22,"$2,597 ",177
+Venkat Kodi,India,Drinking Coco,28-Jan-22,"$2,219 ",142
+Gowri Sankar Chakrala,UK,Orange Choco,06-Jun-22,"$11,319 ",12
+Dinanath Simhambhatla,New Zealand,Baker's Choco Chips,12-Jul-22,"$5,978 ",24
+Devrat Damarsingh,Canada,Spicy Special Slims,05-Aug-22,"$5,327 ",183
+Dinanath Simhambhatla,USA,Orange Choco,28-Jan-22,"$6,020 ",147
+Lalitchandra Vadali,India,Spicy Special Slims,31-Aug-22,"$5,614 ",137
+Raghuveer Yettugunna,USA,50% Dark Bites,19-Apr-22,"$1,736 ",13
+Raghuveer Yettugunna,UK,Mint Chip Choco,29-Jun-22,"$6,384 ",2
+Suman Katte,India,Choco Coated Almonds,24-Feb-22,"$3,577 ",261
+Sreenivasa Naik Gudiwada,UK,Smooth Sliky Salty,04-Mar-22,"$14,539 ",84
+Devsena Veluvalapalli,India,Eclairs,21-Jun-22,"$3,493 ",68
+Nazeer Basha Mustafa,Australia,Organic Choco Syrup,26-Jan-22,$994 ,105
+Vasavi Veeravasarapu,New Zealand,White Choc,10-Jun-22,"$4,361 ",40
+Ponnan Delhi,UK,Drinking Coco,23-May-22,"$1,554 ",65
+Subbarao Malladi,India,Milk Bars,15-Apr-22,$966 ,107
+Sahaj Jonnalagadda,New Zealand,Caramel Stuffed Bars,31-Jan-22,"$5,334 ",227
+Ponnan Delhi,New Zealand,Organic Choco Syrup,04-Mar-22,"$4,935 ",39
+Venkat Kodi,New Zealand,After Nines,19-Apr-22,"$10,024 ",84
+Suman Katte,UK,Almond Choco,16-May-22,"$2,506 ",100
+Vasavi Veeravasarapu,Australia,Raspberry Choco,17-Feb-22,"$1,043 ",120
+John Joseph,USA,Raspberry Choco,18-Jan-22,"$6,524 ",257
+Prasanna Lakshmi Payasam,Canada,Orange Choco,09-Feb-22,"$8,148 ",85
+Raghuveer Yettugunna,Canada,Orange Choco,23-Mar-22,"$3,577 ",178
+Sreenivasa Naik Gudiwada,New Zealand,Caramel Stuffed Bars,01-Feb-22,"$3,374 ",151
+Raghuveer Yettugunna,India,Drinking Coco,07-Mar-22,"$3,948 ",142
+Devrat Damarsingh,UK,White Choc,03-Jan-22,"$3,269 ",226
+Devrat Damarsingh,USA,White Choc,11-Feb-22,"$5,271 ",341
+John Joseph,New Zealand,Orange Choco,16-Mar-22,"$4,571 ",140
+Ramalingam Kothapeta,India,White Choc,15-Aug-22,"$12,327 ",330
+Devsena Veluvalapalli,India,Manuka Honey Choco,12-May-22,"$4,935 ",73
+Yedukondalu Panditula,India,Spicy Special Slims,11-Apr-22,"$6,167 ",4
+Gopal Venkata,New Zealand,Mint Chip Choco,30-Jun-22,"$18,340 ",285
+Ramalingam Kothapeta,New Zealand,White Choc,15-Jun-22,"$7,014 ",60
+Nazeer Basha Mustafa,Canada,Caramel Stuffed Bars,01-Aug-22,"$7,119 ",101
+Lalitchandra Vadali,USA,Milk Bars,15-Jun-22,"$15,491 ",58
+Dinanath Simhambhatla,India,After Nines,16-Jun-22,"$5,747 ",45
+Vasavi Veeravasarapu,New Zealand,Raspberry Choco,13-May-22,"$4,550 ",281
+John Joseph,USA,Drinking Coco,10-May-22,"$2,191 ",138
+Vasavi Veeravasarapu,India,Eclairs,25-Aug-22,"$5,663 ",322
+Devrat Damarsingh,New Zealand,Organic Choco Syrup,15-Jul-22,"$7,623 ",85
+Devsena Veluvalapalli,UK,Baker's Choco Chips,16-May-22,"$9,023 ",409
+Gopal Venkata,Australia,50% Dark Bites,14-Jun-22,"$3,402 ",182
+Suman Katte,Australia,Smooth Sliky Salty,25-Jan-22,"$10,507 ",467
+Devrat Damarsingh,USA,Organic Choco Syrup,28-Jul-22,"$7,721 ",14
+Dinanath Simhambhatla,Canada,Mint Chip Choco,28-Jan-22,"$5,033 ",178
+Lalitchandra Vadali,UK,Orange Choco,29-Jun-22,"$1,960 ",191
+Sahaj Jonnalagadda,Australia,70% Dark Bites,24-Jun-22,$238 ,317
+Mayur Kousika,Canada,Mint Chip Choco,01-Jul-22,"$7,756 ",410
+Prasanna Lakshmi Payasam,USA,Peanut Butter Cubes,25-Feb-22,"$1,736 ",137
+Jaipal Potanapudi,Canada,Smooth Sliky Salty,01-Aug-22,"$2,660 ",12
+Vasavi Veeravasarapu,Australia,Milk Bars,21-Jun-22,"$7,672 ",254
+Sravanthi Chalaki,New Zealand,Spicy Special Slims,25-Jan-22,"$11,564 ",24
+Devsena Veluvalapalli,UK,Milk Bars,17-May-22,"$1,365 ",232
+Ponnan Delhi,Australia,85% Dark Bars,23-Aug-22,"$4,186 ",233
+Sravanthi Chalaki,Australia,Smooth Sliky Salty,03-Mar-22,"$7,406 ",118
+Prasanna Lakshmi Payasam,India,Caramel Stuffed Bars,30-May-22,"$8,911 ",543
+Sahaj Jonnalagadda,USA,Drinking Coco,29-Jun-22,$112 ,223
+Ponnan Delhi,Canada,Organic Choco Syrup,04-Jan-22,"$8,204 ",204
+Parasuramudu Jamakayala,Australia,Drinking Coco,14-Jan-22,"$2,611 ",65
+Sahaj Jonnalagadda,USA,Mint Chip Choco,15-Feb-22,"$15,652 ",53
+Jaipal Potanapudi,New Zealand,Spicy Special Slims,10-Jan-22,"$4,074 ",469
+Sreenivasa Naik Gudiwada,USA,White Choc,04-May-22,"$12,250 ",213
+Ponnan Delhi,USA,Spicy Special Slims,23-May-22,"$2,366 ",5
+Venkat Kodi,New Zealand,Fruit & Nut Bars,26-Apr-22,"$1,687 ",147
+Vasavi Veeravasarapu,Canada,Organic Choco Syrup,05-Jul-22,"$1,232 ",74
+Sreenivasa Naik Gudiwada,UK,Organic Choco Syrup,21-Jul-22,"$6,965 ",163
+Ramalingam Kothapeta,USA,Mint Chip Choco,21-Feb-22,"$5,292 ",248
+Subbarao Malladi,USA,Orange Choco,03-Feb-22,"$1,379 ",138
+Devsena Veluvalapalli,Australia,Caramel Stuffed Bars,08-Jul-22,"$8,001 ",151
+Raghuveer Yettugunna,India,50% Dark Bites,31-May-22,$588 ,139
+Yedukondalu Panditula,New Zealand,Mint Chip Choco,27-Jun-22,"$4,046 ",103
+Yedukondalu Panditula,India,50% Dark Bites,13-May-22,"$5,103 ",129
+Yedukondalu Panditula,USA,Manuka Honey Choco,31-May-22,"$2,317 ",102
+Oorjit Nandanavanam,USA,Orange Choco,28-Feb-22,"$7,042 ",37
+Venkat Kodi,New Zealand,Eclairs,28-Mar-22,"$6,713 ",31
+Devsena Veluvalapalli,USA,After Nines,14-Jan-22,"$1,848 ",227
+Venkat Kodi,New Zealand,Mint Chip Choco,21-Feb-22,"$6,440 ",145
+John Joseph,Canada,85% Dark Bars,01-Aug-22,"$10,885 ",90
+Suman Katte,New Zealand,Smooth Sliky Salty,19-May-22,"$2,387 ",59
+Duran Appala,USA,White Choc,13-Jul-22,"$2,030 ",60
+Ponnan Delhi,Australia,Peanut Butter Cubes,20-Apr-22,"$6,678 ",148
+John Joseph,India,85% Dark Bars,30-Jun-22,"$4,515 ",22
+Jaipal Potanapudi,UK,50% Dark Bites,08-Mar-22,"$3,374 ",142
+Mayur Kousika,USA,Fruit & Nut Bars,09-Mar-22,"$5,852 ",93
+Vasavi Veeravasarapu,Canada,Raspberry Choco,16-Jun-22,"$1,750 ",208
+Devsena Veluvalapalli,UK,Drinking Coco,30-Jun-22,"$5,782 ",42
+Subbarao Malladi,India,Mint Chip Choco,28-Jul-22,"$2,870 ",120
+Sahaj Jonnalagadda,Canada,Peanut Butter Cubes,12-Aug-22,"$3,094 ",159
+Venkat Kodi,UK,Mint Chip Choco,07-Jul-22,"$3,724 ",316
+Venkat Kodi,USA,85% Dark Bars,25-Aug-22,"$12,761 ",47
+Duran Appala,Canada,Eclairs,17-Jan-22,"$3,696 ",233
+Gopal Venkata,Australia,70% Dark Bites,04-Mar-22,"$5,222 ",384
+Gowri Sankar Chakrala,New Zealand,Fruit & Nut Bars,25-Aug-22,"$8,939 ",4
+Devrat Damarsingh,UK,Peanut Butter Cubes,15-Apr-22,"$2,156 ",260
+Lalitchandra Vadali,USA,Organic Choco Syrup,11-Mar-22,"$2,380 ",22
+Sravanthi Chalaki,USA,Raspberry Choco,20-May-22,"$3,339 ",18
+Dinanath Simhambhatla,New Zealand,Manuka Honey Choco,14-Jun-22,"$14,980 ",42
+Parasuramudu Jamakayala,New Zealand,After Nines,14-Apr-22,"$1,512 ",73
+Parasuramudu Jamakayala,USA,Smooth Sliky Salty,07-Jul-22,"$6,657 ",154
+Sreenivasa Naik Gudiwada,India,Mint Chip Choco,24-Aug-22,"$3,836 ",71
+Parasuramudu Jamakayala,India,Eclairs,24-Feb-22,"$8,771 ",127
+Sahaj Jonnalagadda,Canada,Raspberry Choco,09-May-22,$651 ,224
+Lalitchandra Vadali,Australia,70% Dark Bites,08-Feb-22,"$6,706 ",223
+Prasanna Lakshmi Payasam,UK,70% Dark Bites,24-Mar-22,"$1,421 ",284
+Nazeer Basha Mustafa,USA,Drinking Coco,20-Jun-22,"$8,526 ",73
+Raghuveer Yettugunna,Canada,Manuka Honey Choco,07-Mar-22,"$1,435 ",112
+Lalitchandra Vadali,Australia,Fruit & Nut Bars,20-Jun-22,"$7,434 ",85
+Vasavi Veeravasarapu,New Zealand,Organic Choco Syrup,17-Feb-22,"$15,316 ",270
+Sreenivasa Naik Gudiwada,UK,99% Dark & Pure,26-Jan-22,"$10,479 ",45
+Sreenivasa Naik Gudiwada,Australia,Mint Chip Choco,02-May-22,"$2,751 ",153
+Jaipal Potanapudi,Canada,99% Dark & Pure,07-Jul-22,"$12,586 ",7
+Nazeer Basha Mustafa,Australia,Baker's Choco Chips,22-Aug-22,"$2,786 ",51
+Sahaj Jonnalagadda,Australia,After Nines,11-Aug-22,"$2,303 ",67
+Gowri Sankar Chakrala,UK,99% Dark & Pure,13-Jan-22,"$8,113 ",194
+Mayur Kousika,Australia,50% Dark Bites,02-Mar-22,"$12,271 ",116
+Gowri Sankar Chakrala,Australia,Choco Coated Almonds,27-Jul-22,"$11,298 ",41
+Subbarao Malladi,New Zealand,Drinking Coco,10-Mar-22,"$15,855 ",111
+Suman Katte,USA,85% Dark Bars,23-Aug-22,"$12,404 ",334
+Prasanna Lakshmi Payasam,USA,Eclairs,25-Apr-22,"$3,990 ",155
+John Joseph,UK,Milk Bars,07-Mar-22,"$10,808 ",407
+Oorjit Nandanavanam,UK,Organic Choco Syrup,12-Jul-22,"$4,858 ",52
+Sreenivasa Naik Gudiwada,USA,Orange Choco,16-May-22,"$7,742 ",138
+Mayur Kousika,India,Smooth Sliky Salty,02-Mar-22,"$3,752 ",70
+Gowri Sankar Chakrala,New Zealand,85% Dark Bars,30-May-22,"$1,218 ",149
+Gowri Sankar Chakrala,UK,Manuka Honey Choco,10-Jun-22,"$10,983 ",179
+Dinanath Simhambhatla,USA,99% Dark & Pure,25-Jul-22,"$6,769 ",353
+Suman Katte,New Zealand,Mint Chip Choco,09-Jun-22,"$4,361 ",97
+John Joseph,USA,Milk Bars,12-May-22,$777 ,60
+Mayur Kousika,USA,Drinking Coco,09-May-22,"$3,843 ",5
+Dinanath Simhambhatla,Canada,Manuka Honey Choco,09-Aug-22,"$6,930 ",182
+Yedukondalu Panditula,India,Choco Coated Almonds,13-Apr-22,"$5,733 ",114
+Ponnan Delhi,USA,Caramel Stuffed Bars,02-May-22,"$8,393 ",46
+Ramalingam Kothapeta,USA,99% Dark & Pure,09-Aug-22,"$3,822 ",320
+Sravanthi Chalaki,Australia,Raspberry Choco,23-Aug-22,"$6,342 ",178
+Mayur Kousika,India,Spicy Special Slims,13-May-22,"$6,510 ",170
+Sahaj Jonnalagadda,USA,Manuka Honey Choco,01-Feb-22,"$10,171 ",67
+Sravanthi Chalaki,USA,50% Dark Bites,23-Jun-22,"$5,908 ",301
+Sreenivasa Naik Gudiwada,UK,Choco Coated Almonds,24-May-22,"$10,164 ",134
+Gopal Venkata,Canada,Mint Chip Choco,01-Apr-22,"$1,064 ",211
+Sravanthi Chalaki,Canada,70% Dark Bites,27-Jul-22,"$9,716 ",151
+Devrat Damarsingh,India,Peanut Butter Cubes,27-Jan-22,"$22,050 ",208
+Gopal Venkata,India,Choco Coated Almonds,12-Aug-22,"$2,541 ",134
+Devsena Veluvalapalli,Canada,Almond Choco,01-Feb-22,"$9,989 ",49
+Nazeer Basha Mustafa,India,After Nines,02-Mar-22,"$4,739 ",204
+Subbarao Malladi,Australia,99% Dark & Pure,30-Jun-22,"$3,185 ",34
+Ramalingam Kothapeta,Australia,Spicy Special Slims,17-Jan-22,"$8,225 ",91
+Dinanath Simhambhatla,USA,Milk Bars,07-Jul-22,"$14,301 ",130
+Raghuveer Yettugunna,New Zealand,Mint Chip Choco,31-Jan-22,"$1,316 ",107
+Suman Katte,UK,99% Dark & Pure,10-Aug-22,"$3,486 ",121
+Suman Katte,USA,Peanut Butter Cubes,18-Aug-22,"$13,930 ",339
+Dinanath Simhambhatla,New Zealand,White Choc,15-Jun-22,"$5,509 ",321
+Gowri Sankar Chakrala,USA,Baker's Choco Chips,26-Jan-22,"$8,470 ",9
+Subbarao Malladi,USA,Spicy Special Slims,29-Apr-22,$77 ,69
+Raghuveer Yettugunna,Canada,White Choc,03-Mar-22,"$3,381 ",72
+Lalitchandra Vadali,Australia,Almond Choco,22-Feb-22,"$4,102 ",392
+Vasavi Veeravasarapu,USA,Smooth Sliky Salty,04-Mar-22,"$3,577 ",158
+John Joseph,India,Smooth Sliky Salty,07-Jul-22,"$2,975 ",9
+Sravanthi Chalaki,New Zealand,Caramel Stuffed Bars,17-Jun-22,"$4,137 ",347
+Gopal Venkata,Canada,Caramel Stuffed Bars,02-Aug-22,"$9,541 ",114
+Vasavi Veeravasarapu,USA,Baker's Choco Chips,12-Aug-22,"$8,001 ",120
+Sreenivasa Naik Gudiwada,New Zealand,Peanut Butter Cubes,28-Jan-22,"$5,152 ",333
+Subbarao Malladi,Australia,Orange Choco,29-Apr-22,"$11,116 ",432
+Gowri Sankar Chakrala,Australia,Manuka Honey Choco,05-Apr-22,"$13,076 ",236
+Lalitchandra Vadali,Canada,Manuka Honey Choco,18-Jan-22,"$10,213 ",135
+Parasuramudu Jamakayala,UK,Baker's Choco Chips,16-May-22,"$2,485 ",97
+Subbarao Malladi,Australia,White Choc,24-Aug-22,"$8,715 ",168
+Jaipal Potanapudi,India,85% Dark Bars,18-Jan-22,$273 ,402
+Lalitchandra Vadali,USA,Eclairs,22-Aug-22,"$7,623 ",10
+Mayur Kousika,UK,99% Dark & Pure,07-Mar-22,$7 ,84
+Suman Katte,UK,Choco Coated Almonds,04-Mar-22,"$3,010 ",69
+Ramalingam Kothapeta,Canada,Manuka Honey Choco,22-Apr-22,"$11,550 ",111
+Lalitchandra Vadali,Australia,Milk Bars,09-Jun-22,"$4,046 ",89
+Gopal Venkata,Canada,Fruit & Nut Bars,25-Jul-22,"$8,904 ",199
+Gopal Venkata,India,Smooth Sliky Salty,03-Aug-22,"$11,298 ",89
+Nazeer Basha Mustafa,Australia,Manuka Honey Choco,03-Aug-22,"$4,396 ",131
+Parasuramudu Jamakayala,UK,Milk Bars,03-May-22,"$12,068 ",227
+Duran Appala,Canada,After Nines,19-Jan-22,"$9,772 ",301
+Prasanna Lakshmi Payasam,USA,50% Dark Bites,11-Feb-22,"$10,458 ",316
+Yedukondalu Panditula,India,Almond Choco,14-Jun-22,"$6,426 ",390
+Subbarao Malladi,USA,50% Dark Bites,23-Mar-22,"$6,188 ",223
+Sreenivasa Naik Gudiwada,Canada,85% Dark Bars,17-Feb-22,"$7,504 ",101
+John Joseph,Canada,Smooth Sliky Salty,17-Mar-22,"$1,750 ",479
+Raghuveer Yettugunna,Australia,Spicy Special Slims,29-Jun-22,"$5,439 ",287
+Devrat Damarsingh,Canada,Choco Coated Almonds,24-Aug-22,"$15,547 ",269
+Devsena Veluvalapalli,Canada,Spicy Special Slims,04-Jul-22,"$11,956 ",277
+Prasanna Lakshmi Payasam,New Zealand,Almond Choco,28-Mar-22,"$2,723 ",67
+Jaipal Potanapudi,India,Smooth Sliky Salty,19-Apr-22,"$19,327 ",135
+Devrat Damarsingh,New Zealand,Mint Chip Choco,18-Jan-22,"$9,058 ",229
+Yedukondalu Panditula,New Zealand,Fruit & Nut Bars,17-Jan-22,"$2,996 ",88
+Ponnan Delhi,New Zealand,Mint Chip Choco,15-Feb-22,"$8,848 ",211
+Ponnan Delhi,UK,Milk Bars,11-Feb-22,"$14,336 ",293
+Sravanthi Chalaki,USA,Manuka Honey Choco,21-Mar-22,"$16,401 ",179
+Mayur Kousika,New Zealand,Almond Choco,05-Jan-22,"$5,173 ",129
+Dinanath Simhambhatla,India,Raspberry Choco,30-May-22,"$6,328 ",164
+Parasuramudu Jamakayala,USA,99% Dark & Pure,04-Jan-22,"$2,534 ",219
+Suman Katte,Australia,Fruit & Nut Bars,22-Apr-22,"$1,435 ",258
+Devsena Veluvalapalli,Canada,Milk Bars,10-Feb-22,"$3,052 ",116
+Ramalingam Kothapeta,India,Spicy Special Slims,12-Aug-22,$910 ,204
+Mayur Kousika,USA,Organic Choco Syrup,10-Aug-22,"$2,331 ",321
+Subbarao Malladi,Australia,Raspberry Choco,07-Jun-22,$679 ,56
+Parasuramudu Jamakayala,India,Baker's Choco Chips,06-Jun-22,"$2,086 ",74
+Sahaj Jonnalagadda,New Zealand,Baker's Choco Chips,05-Apr-22,"$5,012 ",189
+Oorjit Nandanavanam,USA,50% Dark Bites,18-Apr-22,"$4,501 ",131
+Ponnan Delhi,India,50% Dark Bites,31-Jan-22,"$13,482 ",15
+Sreenivasa Naik Gudiwada,USA,Baker's Choco Chips,22-Aug-22,"$5,621 ",140
+Parasuramudu Jamakayala,Australia,99% Dark & Pure,25-Feb-22,"$10,486 ",198
+Gopal Venkata,Australia,Mint Chip Choco,22-Feb-22,"$17,626 ",103
+Vasavi Veeravasarapu,New Zealand,Milk Bars,12-Jan-22,"$4,494 ",187
+Dinanath Simhambhatla,UK,Almond Choco,25-May-22,$105 ,125
+Subbarao Malladi,India,Smooth Sliky Salty,01-Feb-22,"$2,464 ",8
+Nazeer Basha Mustafa,UK,Eclairs,27-Apr-22,"$1,379 ",70
+Devsena Veluvalapalli,USA,Smooth Sliky Salty,22-Jul-22,"$2,583 ",126
+Jaipal Potanapudi,New Zealand,Mint Chip Choco,26-Jan-22,"$3,220 ",265
+Jaipal Potanapudi,USA,Mint Chip Choco,24-Aug-22,"$4,802 ",296
+Sreenivasa Naik Gudiwada,New Zealand,Fruit & Nut Bars,18-Jan-22,"$5,677 ",21
+Sahaj Jonnalagadda,India,85% Dark Bars,30-Mar-22,$945 ,83
+Devrat Damarsingh,Australia,Caramel Stuffed Bars,17-Jan-22,"$8,757 ",162
+Subbarao Malladi,USA,Fruit & Nut Bars,17-Feb-22,"$4,816 ",145
+Subbarao Malladi,Canada,Peanut Butter Cubes,08-Apr-22,"$7,532 ",44
+Devsena Veluvalapalli,Canada,Drinking Coco,06-Jul-22,"$3,549 ",82
+Duran Appala,India,Fruit & Nut Bars,04-Apr-22,"$4,340 ",226
+Gopal Venkata,New Zealand,Organic Choco Syrup,02-Mar-22,"$1,799 ",207
+Devsena Veluvalapalli,New Zealand,Raspberry Choco,09-Aug-22,"$1,127 ",176
+John Joseph,Australia,Milk Bars,09-Jun-22,"$10,038 ",286
+Devrat Damarsingh,UK,Caramel Stuffed Bars,02-Jun-22,"$2,926 ",300
+Yedukondalu Panditula,USA,Fruit & Nut Bars,05-Jul-22,"$6,279 ",235
+Ponnan Delhi,Canada,Eclairs,11-Aug-22,$308 ,125
+Sreenivasa Naik Gudiwada,India,Choco Coated Almonds,11-Feb-22,"$3,500 ",145
+Subbarao Malladi,New Zealand,Spicy Special Slims,11-Aug-22,$658 ,65
+Prasanna Lakshmi Payasam,Australia,Drinking Coco,12-May-22,"$12,565 ",102
+Oorjit Nandanavanam,USA,Milk Bars,15-Jul-22,"$5,012 ",93
+Ponnan Delhi,India,Organic Choco Syrup,18-Jan-22,"$3,955 ",134
+Sreenivasa Naik Gudiwada,UK,Fruit & Nut Bars,05-Jan-22,"$8,512 ",189
+Jaipal Potanapudi,Australia,50% Dark Bites,29-Jun-22,$504 ,232
+Dinanath Simhambhatla,Canada,Raspberry Choco,14-Jun-22,"$2,800 ",45
+Mayur Kousika,India,Mint Chip Choco,08-Aug-22,"$4,256 ",67
+John Joseph,India,Mint Chip Choco,23-Mar-22,"$13,573 ",138
+Venkat Kodi,India,Caramel Stuffed Bars,04-Jan-22,"$6,566 ",99
+Dinanath Simhambhatla,India,Milk Bars,22-Feb-22,"$13,503 ",251
+Suman Katte,UK,Spicy Special Slims,17-Feb-22,"$8,680 ",252
+Venkat Kodi,USA,Almond Choco,03-Feb-22,$385 ,78
+Yedukondalu Panditula,Canada,Raspberry Choco,17-Mar-22,"$1,267 ",130
+Oorjit Nandanavanam,Australia,Baker's Choco Chips,25-Jan-22,"$2,961 ",154
+Dinanath Simhambhatla,Australia,Milk Bars,27-Jul-22,"$1,981 ",52
+Duran Appala,Australia,Fruit & Nut Bars,28-Jan-22,"$7,959 ",53
+Sreenivasa Naik Gudiwada,Australia,Organic Choco Syrup,05-Jul-22,"$10,794 ",50
+Yedukondalu Panditula,India,White Choc,15-Mar-22,"$1,897 ",44
+Mayur Kousika,Canada,After Nines,04-Aug-22,"$2,744 ",200
+Gopal Venkata,USA,Fruit & Nut Bars,27-Jun-22,"$4,382 ",361
+Gopal Venkata,Canada,After Nines,13-Jul-22,"$4,515 ",172
+Venkat Kodi,New Zealand,Manuka Honey Choco,24-Feb-22,"$5,474 ",239
+Sahaj Jonnalagadda,New Zealand,85% Dark Bars,28-Jun-22,"$6,069 ",55
+Vasavi Veeravasarapu,Australia,85% Dark Bars,30-Jun-22,"$6,944 ",27
+Jaipal Potanapudi,Canada,Choco Coated Almonds,18-Aug-22,"$5,859 ",7
+Lalitchandra Vadali,India,70% Dark Bites,24-Jan-22,"$12,173 ",301
+Suman Katte,USA,White Choc,11-Mar-22,"$5,292 ",134
+Devrat Damarsingh,New Zealand,After Nines,23-Jun-22,"$5,705 ",350
+Duran Appala,India,Spicy Special Slims,22-Aug-22,"$2,492 ",33
+Mayur Kousika,Canada,50% Dark Bites,04-Jan-22,"$3,024 ",23
+Jaipal Potanapudi,India,Milk Bars,05-Apr-22,"$3,437 ",201
+Suman Katte,India,Milk Bars,15-Apr-22,"$1,869 ",323
+Duran Appala,Australia,White Choc,11-May-22,"$3,171 ",220
+Ponnan Delhi,Canada,Manuka Honey Choco,21-Jul-22,"$4,858 ",488
+Gopal Venkata,New Zealand,Orange Choco,11-Feb-22,"$1,225 ",84
+Ponnan Delhi,Canada,Smooth Sliky Salty,08-Jul-22,"$1,155 ",79
+Mayur Kousika,UK,Raspberry Choco,11-Aug-22,"$6,811 ",344
+Duran Appala,New Zealand,After Nines,04-Aug-22,"$6,433 ",7
+Ponnan Delhi,New Zealand,Orange Choco,14-Jun-22,"$8,169 ",88
+John Joseph,UK,Baker's Choco Chips,17-Jan-22,"$2,275 ",275
+Parasuramudu Jamakayala,Canada,Orange Choco,23-Jun-22,"$3,857 ",512
+Parasuramudu Jamakayala,UK,Smooth Sliky Salty,24-Aug-22,"$1,463 ",113
+Ponnan Delhi,UK,Caramel Stuffed Bars,07-Jun-22,"$7,924 ",275
+Gopal Venkata,UK,White Choc,22-Jun-22,"$8,799 ",47
+Ramalingam Kothapeta,USA,Fruit & Nut Bars,13-Jul-22,"$2,898 ",276
+Subbarao Malladi,UK,Choco Coated Almonds,24-May-22,"$9,506 ",212
+Mayur Kousika,New Zealand,After Nines,09-Aug-22,"$7,175 ",145
+Lalitchandra Vadali,Canada,85% Dark Bars,06-Apr-22,"$1,729 ",31
+Gopal Venkata,New Zealand,Manuka Honey Choco,28-Jul-22,"$1,589 ",271
+Mayur Kousika,New Zealand,Raspberry Choco,24-Aug-22,$630 ,52
+Yedukondalu Panditula,Australia,99% Dark & Pure,17-Jan-22,$112 ,128
+Jaipal Potanapudi,USA,Drinking Coco,07-Feb-22,"$5,187 ",142
+Dinanath Simhambhatla,Australia,Spicy Special Slims,09-May-22,"$6,223 ",256
+Raghuveer Yettugunna,New Zealand,85% Dark Bars,06-Jun-22,"$7,714 ",106
+Oorjit Nandanavanam,USA,Choco Coated Almonds,06-Jun-22,"$9,457 ",6
+Suman Katte,New Zealand,Organic Choco Syrup,24-May-22,"$6,678 ",226
+Mayur Kousika,UK,50% Dark Bites,13-Jan-22,"$2,107 ",121
+Gowri Sankar Chakrala,USA,Raspberry Choco,23-May-22,"$6,069 ",151
+Parasuramudu Jamakayala,UK,White Choc,29-Jun-22,"$1,862 ",284
+Parasuramudu Jamakayala,New Zealand,85% Dark Bars,11-Mar-22,"$6,972 ",89
+Ramalingam Kothapeta,USA,85% Dark Bars,25-Apr-22,"$10,220 ",508
+Nazeer Basha Mustafa,Australia,Smooth Sliky Salty,30-May-22,"$3,969 ",243
+Jaipal Potanapudi,India,Manuka Honey Choco,23-May-22,"$1,547 ",170
+Raghuveer Yettugunna,USA,Peanut Butter Cubes,23-May-22,"$1,162 ",18
+Yedukondalu Panditula,Canada,Peanut Butter Cubes,24-Jun-22,"$6,342 ",282
+Subbarao Malladi,New Zealand,Smooth Sliky Salty,11-Mar-22,"$10,633 ",277
+Nazeer Basha Mustafa,USA,Smooth Sliky Salty,27-Jul-22,"$15,057 ",212
+Nazeer Basha Mustafa,USA,White Choc,16-Aug-22,"$4,704 ",126
+Prasanna Lakshmi Payasam,Canada,Smooth Sliky Salty,07-Mar-22,"$9,338 ",11
+Jaipal Potanapudi,New Zealand,After Nines,05-Apr-22,"$7,959 ",30
+Sravanthi Chalaki,India,85% Dark Bars,04-May-22,"$9,023 ",51
+Devrat Damarsingh,USA,Choco Coated Almonds,04-Jan-22,"$14,525 ",92
+Gowri Sankar Chakrala,Australia,Baker's Choco Chips,13-Jan-22,"$5,810 ",101
+Oorjit Nandanavanam,New Zealand,Fruit & Nut Bars,11-Jul-22,"$6,426 ",98
+Lalitchandra Vadali,Australia,Mint Chip Choco,17-May-22,"$4,403 ",159
+Sravanthi Chalaki,New Zealand,Peanut Butter Cubes,21-Jul-22,"$1,582 ",62
+Jaipal Potanapudi,Canada,Organic Choco Syrup,22-Feb-22,$791 ,22
+Gopal Venkata,India,99% Dark & Pure,23-May-22,"$9,100 ",187
+Nazeer Basha Mustafa,Canada,Drinking Coco,12-Jul-22,"$9,884 ",200
+Gopal Venkata,UK,Orange Choco,15-Jun-22,"$3,780 ",201
+Venkat Kodi,New Zealand,50% Dark Bites,23-Jun-22,"$4,557 ",308
+Jaipal Potanapudi,Australia,Eclairs,25-Mar-22,"$5,796 ",55
+Gopal Venkata,India,Caramel Stuffed Bars,04-Jul-22,$84 ,153
+Ponnan Delhi,UK,White Choc,12-May-22,"$9,037 ",101
+Sravanthi Chalaki,New Zealand,Raspberry Choco,04-Apr-22,"$4,746 ",137
+Sreenivasa Naik Gudiwada,Australia,Orange Choco,15-Apr-22,"$6,713 ",398
+Prasanna Lakshmi Payasam,Canada,Eclairs,08-Mar-22,"$6,237 ",88
+Sahaj Jonnalagadda,India,White Choc,17-Jan-22,"$7,483 ",232
+Oorjit Nandanavanam,India,Mint Chip Choco,22-Aug-22,"$1,309 ",51
+Ponnan Delhi,UK,99% Dark & Pure,25-Jul-22,"$1,155 ",66
+Gowri Sankar Chakrala,UK,50% Dark Bites,14-Jun-22,"$2,989 ",124
+Devrat Damarsingh,India,Choco Coated Almonds,05-Apr-22,"$9,625 ",78
+Sreenivasa Naik Gudiwada,UK,Raspberry Choco,26-Aug-22,"$7,357 ",341
+Oorjit Nandanavanam,Australia,50% Dark Bites,03-Aug-22,"$10,031 ",114
+Devsena Veluvalapalli,Canada,White Choc,11-Jul-22,"$6,587 ",4
+Oorjit Nandanavanam,New Zealand,Eclairs,11-Mar-22,"$3,311 ",22
+Dinanath Simhambhatla,UK,Peanut Butter Cubes,10-Jan-22,"$15,330 ",30
+Prasanna Lakshmi Payasam,UK,Baker's Choco Chips,04-Apr-22,"$14,028 ",351
+Sahaj Jonnalagadda,Australia,50% Dark Bites,17-Jan-22,"$6,678 ",708
+Gowri Sankar Chakrala,New Zealand,Organic Choco Syrup,08-Jul-22,"$8,624 ",50
+Gopal Venkata,UK,Organic Choco Syrup,12-Apr-22,"$1,197 ",356
+Nazeer Basha Mustafa,Canada,Fruit & Nut Bars,24-Aug-22,$483 ,185
+Devrat Damarsingh,UK,Choco Coated Almonds,07-Jun-22,"$1,687 ",236
+Mayur Kousika,Canada,Almond Choco,28-Jul-22,"$1,309 ",30
+Duran Appala,USA,99% Dark & Pure,21-Feb-22,"$9,534 ",111
+John Joseph,Canada,Mint Chip Choco,08-Apr-22,"$1,694 ",289
+Dinanath Simhambhatla,UK,Manuka Honey Choco,28-Jun-22,$70 ,103
+Yedukondalu Panditula,UK,Baker's Choco Chips,24-Mar-22,"$2,443 ",20
+Venkat Kodi,Australia,Caramel Stuffed Bars,29-Jul-22,"$2,933 ",55
+John Joseph,USA,Eclairs,25-May-22,"$2,044 ",90
+Devsena Veluvalapalli,Australia,Raspberry Choco,30-Mar-22,"$6,524 ",303
+John Joseph,USA,Organic Choco Syrup,18-Jul-22,"$12,656 ",126
+Suman Katte,Canada,Orange Choco,10-May-22,"$8,722 ",109
+Raghuveer Yettugunna,Australia,Choco Coated Almonds,18-Mar-22,"$15,750 ",92
+Devrat Damarsingh,India,Caramel Stuffed Bars,15-Jun-22,"$6,839 ",56
+Yedukondalu Panditula,Canada,50% Dark Bites,12-May-22,"$13,685 ",58
+Subbarao Malladi,New Zealand,Baker's Choco Chips,23-Jun-22,"$2,912 ",110
+Suman Katte,India,Spicy Special Slims,21-Apr-22,"$3,339 ",171
+Devsena Veluvalapalli,Australia,Almond Choco,17-Aug-22,$910 ,117
+Nazeer Basha Mustafa,New Zealand,Eclairs,07-Feb-22,"$19,481 ",51
+Subbarao Malladi,Canada,Smooth Sliky Salty,17-Mar-22,"$8,099 ",118
+Gopal Venkata,India,Baker's Choco Chips,01-Aug-22,"$13,727 ",79
+Parasuramudu Jamakayala,Australia,Milk Bars,18-Mar-22,"$8,659 ",29
+Devsena Veluvalapalli,Canada,Fruit & Nut Bars,14-Jun-22,"$5,782 ",103
+Suman Katte,UK,Eclairs,22-Apr-22,"$8,463 ",155
+Gowri Sankar Chakrala,New Zealand,Eclairs,18-Jan-22,"$4,914 ",31
+Duran Appala,Australia,99% Dark & Pure,26-Aug-22,"$3,087 ",128
+Mayur Kousika,New Zealand,Fruit & Nut Bars,10-Jun-22,"$9,205 ",419
+Jaipal Potanapudi,Canada,70% Dark Bites,31-Jan-22,"$2,303 ",7
+Subbarao Malladi,New Zealand,Manuka Honey Choco,08-Apr-22,"$1,358 ",106
+Ramalingam Kothapeta,Australia,Baker's Choco Chips,07-Jun-22,"$3,605 ",68
+Venkat Kodi,Australia,85% Dark Bars,10-Feb-22,"$8,498 ",44
+Suman Katte,Australia,50% Dark Bites,16-May-22,$700 ,457
+Mayur Kousika,India,Baker's Choco Chips,18-Mar-22,"$2,191 ",524
+Yedukondalu Panditula,Australia,50% Dark Bites,13-Jul-22,$644 ,137
+Vasavi Veeravasarapu,USA,Manuka Honey Choco,25-Jul-22,"$4,340 ",86
+Yedukondalu Panditula,Canada,Choco Coated Almonds,19-Aug-22,"$2,282 ",296
+Sahaj Jonnalagadda,Canada,70% Dark Bites,24-Jun-22,"$7,714 ",597
+Subbarao Malladi,Canada,Fruit & Nut Bars,20-Jun-22,$826 ,149
+Sravanthi Chalaki,India,99% Dark & Pure,02-Aug-22,$203 ,207
+Sreenivasa Naik Gudiwada,New Zealand,70% Dark Bites,22-Feb-22,"$13,356 ",93
+Raghuveer Yettugunna,New Zealand,Orange Choco,01-Feb-22,"$6,510 ",23
+Gopal Venkata,Canada,70% Dark Bites,14-Feb-22,"$5,894 ",305
+Subbarao Malladi,Australia,Milk Bars,24-Feb-22,"$7,910 ",125
+John Joseph,India,Orange Choco,18-Mar-22,$784 ,129
+Duran Appala,UK,Eclairs,30-Aug-22,"$1,750 ",252
+Devsena Veluvalapalli,USA,Peanut Butter Cubes,09-May-22,$280 ,75
+Oorjit Nandanavanam,USA,Smooth Sliky Salty,18-Jan-22,$504 ,87
+Jaipal Potanapudi,India,White Choc,04-Jul-22,"$7,154 ",342
+Vasavi Veeravasarapu,New Zealand,Spicy Special Slims,03-Jun-22,"$1,617 ",13
+Suman Katte,New Zealand,Peanut Butter Cubes,23-Feb-22,"$10,822 ",30
+Ramalingam Kothapeta,New Zealand,99% Dark & Pure,09-May-22,"$10,724 ",203
+Subbarao Malladi,India,70% Dark Bites,06-Jun-22,"$3,640 ",106
+Subbarao Malladi,India,Drinking Coco,04-Jul-22,"$7,532 ",234
+Dinanath Simhambhatla,New Zealand,Drinking Coco,06-Jun-22,"$1,582 ",100
+Ramalingam Kothapeta,Australia,Almond Choco,13-May-22,"$1,456 ",91
+Oorjit Nandanavanam,New Zealand,Organic Choco Syrup,31-Jan-22,"$2,016 ",277
+Devrat Damarsingh,New Zealand,Caramel Stuffed Bars,30-Jun-22,"$7,588 ",42
+Venkat Kodi,Canada,Manuka Honey Choco,25-Aug-22,"$3,402 ",249
+Devsena Veluvalapalli,New Zealand,Smooth Sliky Salty,10-Jan-22,$700 ,97
+Dinanath Simhambhatla,USA,Manuka Honey Choco,22-Aug-22,"$1,904 ",8
+Prasanna Lakshmi Payasam,New Zealand,85% Dark Bars,14-Apr-22,"$4,844 ",275
+Vasavi Veeravasarapu,UK,Smooth Sliky Salty,31-May-22,"$9,625 ",313
+Vasavi Veeravasarapu,UK,Raspberry Choco,08-Apr-22,"$4,599 ",323
+Prasanna Lakshmi Payasam,USA,Drinking Coco,21-Feb-22,"$3,003 ",155
+Ponnan Delhi,Australia,Manuka Honey Choco,30-Mar-22,"$9,744 ",377
+Raghuveer Yettugunna,India,Raspberry Choco,02-Mar-22,"$1,400 ",2
+Parasuramudu Jamakayala,USA,Orange Choco,28-Jul-22,$364 ,170
+Lalitchandra Vadali,New Zealand,70% Dark Bites,24-Mar-22,"$7,231 ",38
+Jaipal Potanapudi,Australia,After Nines,11-Aug-22,$63 ,105
+Duran Appala,UK,Almond Choco,17-May-22,"$8,309 ",166
+Lalitchandra Vadali,Canada,Choco Coated Almonds,18-May-22,"$3,164 ",164
+Prasanna Lakshmi Payasam,UK,Peanut Butter Cubes,17-Aug-22,"$5,691 ",171
+Devrat Damarsingh,New Zealand,Eclairs,04-Apr-22,$490 ,49
+Dinanath Simhambhatla,India,85% Dark Bars,09-Aug-22,"$18,032 ",205
+Dinanath Simhambhatla,New Zealand,Organic Choco Syrup,17-Jan-22,$637 ,313
+Ponnan Delhi,Canada,White Choc,14-Feb-22,"$4,067 ",29
+Devsena Veluvalapalli,New Zealand,Orange Choco,16-May-22,"$8,204 ",307
+Devrat Damarsingh,Canada,Smooth Sliky Salty,16-Mar-22,"$9,870 ",121
+Duran Appala,Canada,70% Dark Bites,31-Jan-22,"$5,131 ",285
+Venkat Kodi,Canada,Organic Choco Syrup,10-Mar-22,"$1,141 ",205
+Vasavi Veeravasarapu,UK,Organic Choco Syrup,30-Jun-22,"$7,980 ",157
+Yedukondalu Panditula,New Zealand,Eclairs,01-Mar-22,"$5,229 ",182
+Raghuveer Yettugunna,UK,Drinking Coco,27-May-22,"$3,423 ",100
+Vasavi Veeravasarapu,UK,Milk Bars,11-Jul-22,"$6,468 ",223
+Sahaj Jonnalagadda,New Zealand,Mint Chip Choco,02-Mar-22,"$4,326 ",61
+Parasuramudu Jamakayala,USA,Raspberry Choco,04-Mar-22,"$7,154 ",133
+Subbarao Malladi,UK,85% Dark Bars,23-Jun-22,"$3,997 ",228
+Subbarao Malladi,USA,Almond Choco,27-Jan-22,"$5,180 ",233
+Gowri Sankar Chakrala,Canada,Orange Choco,14-Jan-22,"$2,723 ",425
+John Joseph,India,Fruit & Nut Bars,29-Jul-22,$952 ,24
+Dinanath Simhambhatla,Canada,Smooth Sliky Salty,13-May-22,"$5,691 ",495
+Venkat Kodi,Canada,Baker's Choco Chips,03-Feb-22,"$10,969 ",170
+Dinanath Simhambhatla,India,Smooth Sliky Salty,27-May-22,"$5,964 ",26
+Gopal Venkata,Australia,Drinking Coco,18-Feb-22,"$2,821 ",24
+Dinanath Simhambhatla,India,Spicy Special Slims,28-Jan-22,"$1,302 ",33
+Yedukondalu Panditula,UK,Eclairs,29-Jun-22,"$5,474 ",109
+Oorjit Nandanavanam,India,Caramel Stuffed Bars,13-Jan-22,"$4,179 ",276
+Parasuramudu Jamakayala,UK,After Nines,27-Jun-22,"$1,946 ",164
+Venkat Kodi,Canada,White Choc,29-Mar-22,"$4,291 ",1
+Mayur Kousika,India,Organic Choco Syrup,03-Jun-22,"$7,196 ",160
+Raghuveer Yettugunna,Canada,Smooth Sliky Salty,21-Mar-22,"$1,939 ",98
+Raghuveer Yettugunna,India,Eclairs,12-Apr-22,"$10,437 ",46
+Nazeer Basha Mustafa,Australia,Raspberry Choco,19-Jan-22,"$6,916 ",259
+Sahaj Jonnalagadda,UK,50% Dark Bites,06-Apr-22,"$3,647 ",310
+Lalitchandra Vadali,Australia,50% Dark Bites,02-Aug-22,"$8,995 ",78
+Devsena Veluvalapalli,Australia,Eclairs,12-Apr-22,"$7,252 ",136
+Vasavi Veeravasarapu,India,Drinking Coco,21-Jul-22,"$16,380 ",130
+Yedukondalu Panditula,New Zealand,Baker's Choco Chips,22-Mar-22,"$9,660 ",24
+Duran Appala,India,Peanut Butter Cubes,09-May-22,"$4,522 ",5
+Ponnan Delhi,Australia,Baker's Choco Chips,09-Aug-22,$329 ,109
+Sreenivasa Naik Gudiwada,Canada,Choco Coated Almonds,20-Jul-22,"$3,458 ",294
+Dinanath Simhambhatla,India,70% Dark Bites,14-Apr-22,"$4,641 ",413
+Parasuramudu Jamakayala,Canada,White Choc,25-Jan-22,"$4,627 ",136
+Ponnan Delhi,Australia,Almond Choco,25-Apr-22,"$3,192 ",175
+Ramalingam Kothapeta,Canada,After Nines,17-Jan-22,$252 ,237
+Sahaj Jonnalagadda,USA,Eclairs,15-Aug-22,$868 ,125
+Sahaj Jonnalagadda,Canada,Fruit & Nut Bars,02-Jun-22,$210 ,16
+Mayur Kousika,USA,85% Dark Bars,30-Jun-22,"$7,007 ",135
+Ramalingam Kothapeta,New Zealand,Raspberry Choco,10-Feb-22,"$5,845 ",91
+Gowri Sankar Chakrala,Canada,Caramel Stuffed Bars,23-Feb-22,"$1,372 ",614
+John Joseph,India,Organic Choco Syrup,27-Jan-22,"$8,428 ",216
+Sravanthi Chalaki,UK,Mint Chip Choco,26-May-22,"$4,977 ",317
+Dinanath Simhambhatla,USA,70% Dark Bites,14-Apr-22,"$1,694 ",21
+Sreenivasa Naik Gudiwada,Australia,99% Dark & Pure,01-Aug-22,"$4,326 ",154
+Raghuveer Yettugunna,Australia,Eclairs,22-Aug-22,"$9,527 ",222
+Gowri Sankar Chakrala,India,99% Dark & Pure,22-Jul-22,"$10,766 ",157
+Duran Appala,USA,Fruit & Nut Bars,28-Apr-22,"$1,288 ",27
+Subbarao Malladi,Australia,Almond Choco,30-May-22,"$4,879 ",350
+Devrat Damarsingh,USA,Milk Bars,21-Jul-22,"$2,408 ",157
+Gopal Venkata,UK,Caramel Stuffed Bars,02-Aug-22,"$3,094 ",468
+Dinanath Simhambhatla,New Zealand,70% Dark Bites,15-Jun-22,"$7,231 ",130
+Vasavi Veeravasarapu,India,85% Dark Bars,05-Jul-22,"$8,981 ",130
+Lalitchandra Vadali,New Zealand,Smooth Sliky Salty,12-Apr-22,$7 ,518
+Devsena Veluvalapalli,Australia,70% Dark Bites,18-Aug-22,"$1,372 ",105
+Gopal Venkata,UK,50% Dark Bites,12-Jan-22,"$5,250 ",293
+Mayur Kousika,Canada,White Choc,11-Aug-22,"$7,560 ",15
+Parasuramudu Jamakayala,Australia,Spicy Special Slims,13-Jan-22,"$5,012 ",384
+Duran Appala,UK,Baker's Choco Chips,29-Apr-22,"$3,038 ",135
+Nazeer Basha Mustafa,New Zealand,After Nines,07-Jul-22,"$1,099 ",92
+Sreenivasa Naik Gudiwada,New Zealand,Mint Chip Choco,11-Mar-22,"$7,413 ",4
+Sreenivasa Naik Gudiwada,UK,70% Dark Bites,16-Feb-22,"$5,397 ",239
+Venkat Kodi,Australia,Organic Choco Syrup,07-Jan-22,"$2,303 ",33
+Suman Katte,New Zealand,Drinking Coco,12-Jan-22,"$1,141 ",518
+Suman Katte,India,Eclairs,09-Jun-22,"$10,325 ",147
+Ponnan Delhi,India,Eclairs,16-May-22,"$2,149 ",84
+Devsena Veluvalapalli,UK,85% Dark Bars,23-Jun-22,"$12,362 ",94
+Prasanna Lakshmi Payasam,UK,Raspberry Choco,28-Jan-22,"$12,635 ",194
+Ramalingam Kothapeta,UK,Mint Chip Choco,14-Jul-22,"$2,443 ",216
+Venkat Kodi,Canada,Drinking Coco,18-Apr-22,"$6,237 ",247
+Vasavi Veeravasarapu,USA,Milk Bars,14-Jun-22,"$1,736 ",79
+Vasavi Veeravasarapu,UK,Orange Choco,15-Apr-22,"$7,315 ",237
+Jaipal Potanapudi,Canada,Peanut Butter Cubes,19-May-22,"$4,935 ",63
+Devsena Veluvalapalli,India,White Choc,13-Apr-22,"$1,393 ",172
+Duran Appala,Canada,Choco Coated Almonds,15-Aug-22,"$3,381 ",408
+Oorjit Nandanavanam,India,Choco Coated Almonds,22-Aug-22,"$2,933 ",233
+Oorjit Nandanavanam,New Zealand,Baker's Choco Chips,22-Apr-22,"$3,836 ",59
+Lalitchandra Vadali,UK,Choco Coated Almonds,03-Aug-22,"$8,022 ",123
+John Joseph,New Zealand,Organic Choco Syrup,04-Jan-22,$371 ,229
+Subbarao Malladi,Canada,After Nines,13-Jan-22,"$16,702 ",198
+Yedukondalu Panditula,Australia,Baker's Choco Chips,11-May-22,"$13,258 ",32
+Duran Appala,New Zealand,Peanut Butter Cubes,16-Feb-22,"$2,058 ",236
+Lalitchandra Vadali,UK,Caramel Stuffed Bars,20-May-22,"$10,192 ",67
+Parasuramudu Jamakayala,UK,Drinking Coco,03-Feb-22,"$7,140 ",438
+Suman Katte,India,Manuka Honey Choco,06-May-22,"$9,835 ",167
+Mayur Kousika,UK,Choco Coated Almonds,30-Jun-22,"$5,775 ",135
+Mayur Kousika,UK,Smooth Sliky Salty,22-Mar-22,$749 ,148
+Sravanthi Chalaki,Canada,Orange Choco,17-Feb-22,"$7,770 ",54
+Parasuramudu Jamakayala,UK,85% Dark Bars,07-Jul-22,"$5,502 ",64
+Vasavi Veeravasarapu,UK,70% Dark Bites,16-Mar-22,"$6,223 ",181
+Subbarao Malladi,UK,99% Dark & Pure,12-Aug-22,"$3,507 ",114
+Devsena Veluvalapalli,New Zealand,After Nines,21-Jan-22,"$5,600 ",181
+Vasavi Veeravasarapu,Australia,50% Dark Bites,06-May-22,$721 ,151
+Vasavi Veeravasarapu,Canada,50% Dark Bites,24-Jun-22,"$6,615 ",137
+Venkat Kodi,USA,White Choc,05-May-22,"$7,420 ",163
+Nazeer Basha Mustafa,New Zealand,99% Dark & Pure,25-Mar-22,"$3,164 ",84
+Jaipal Potanapudi,Australia,Caramel Stuffed Bars,14-Feb-22,"$9,114 ",140
+Jaipal Potanapudi,New Zealand,85% Dark Bars,12-May-22,"$5,404 ",187
+Venkat Kodi,New Zealand,Smooth Sliky Salty,25-Jan-22,"$3,990 ",169
+Devrat Damarsingh,UK,85% Dark Bars,28-Jun-22,"$14,924 ",12
+John Joseph,Australia,Drinking Coco,13-Jul-22,"$7,091 ",194
+Prasanna Lakshmi Payasam,USA,Milk Bars,16-May-22,"$2,807 ",252
+Gopal Venkata,India,After Nines,14-Mar-22,"$6,496 ",168
+Mayur Kousika,USA,After Nines,15-Aug-22,"$3,738 ",261
+Devrat Damarsingh,India,Orange Choco,16-Feb-22,"$1,190 ",256
+Raghuveer Yettugunna,UK,Manuka Honey Choco,15-Jun-22,"$8,379 ",43
+Venkat Kodi,Australia,Raspberry Choco,27-May-22,"$9,268 ",100
+Oorjit Nandanavanam,USA,Drinking Coco,14-Jun-22,"$1,029 ",98
+Oorjit Nandanavanam,India,Eclairs,25-Feb-22,"$3,549 ",76
+Oorjit Nandanavanam,India,After Nines,04-Aug-22,"$12,026 ",262
+Subbarao Malladi,India,99% Dark & Pure,28-Jun-22,"$2,303 ",244
+Mayur Kousika,Canada,Spicy Special Slims,05-Apr-22,"$13,405 ",12
+Sreenivasa Naik Gudiwada,Canada,Peanut Butter Cubes,05-Jul-22,"$14,763 ",113
+Lalitchandra Vadali,New Zealand,Eclairs,20-Jan-22,"$12,894 ",48
+Devrat Damarsingh,New Zealand,Drinking Coco,16-Feb-22,"$8,302 ",131
+Jaipal Potanapudi,UK,Drinking Coco,12-Jul-22,$455 ,174
+Subbarao Malladi,India,Raspberry Choco,16-Jun-22,"$8,183 ",254
+Ramalingam Kothapeta,Australia,Choco Coated Almonds,13-Apr-22,"$1,645 ",284
+Lalitchandra Vadali,UK,50% Dark Bites,21-Feb-22,"$3,143 ",67
+Prasanna Lakshmi Payasam,Canada,Choco Coated Almonds,11-May-22,"$5,873 ",249
+Devrat Damarsingh,India,50% Dark Bites,15-Apr-22,"$11,298 ",313
+Vasavi Veeravasarapu,Canada,Peanut Butter Cubes,07-Jun-22,"$12,425 ",167
+Vasavi Veeravasarapu,UK,White Choc,27-Jun-22,"$1,715 ",286
+Venkat Kodi,India,After Nines,29-Jul-22,"$8,190 ",109
+Oorjit Nandanavanam,Canada,Smooth Sliky Salty,02-Jun-22,"$4,991 ",166
+Nazeer Basha Mustafa,India,Mint Chip Choco,26-Jan-22,"$15,491 ",85
+Nazeer Basha Mustafa,Canada,99% Dark & Pure,02-Mar-22,"$5,096 ",142
+Yedukondalu Panditula,Australia,70% Dark Bites,10-Jan-22,"$7,063 ",104
+Suman Katte,USA,70% Dark Bites,27-Jun-22,"$2,275 ",115
+Venkat Kodi,Canada,Orange Choco,30-Jun-22,"$7,602 ",18
+Prasanna Lakshmi Payasam,Australia,85% Dark Bars,08-Jul-22,"$4,200 ",80
+Vasavi Veeravasarapu,India,Spicy Special Slims,08-Jun-22,"$11,137 ",88
+Gopal Venkata,UK,Manuka Honey Choco,18-Aug-22,"$3,388 ",212
+Lalitchandra Vadali,Australia,After Nines,08-Apr-22,"$6,832 ",306
+Oorjit Nandanavanam,Canada,Fruit & Nut Bars,08-Aug-22,"$3,437 ",181
+Oorjit Nandanavanam,UK,Milk Bars,26-Aug-22,$301 ,65
+Vasavi Veeravasarapu,Canada,Fruit & Nut Bars,14-Jan-22,"$1,869 ",158
+John Joseph,USA,Baker's Choco Chips,11-Aug-22,"$17,465 ",271
+Sreenivasa Naik Gudiwada,USA,Almond Choco,31-May-22,"$10,143 ",24
+Yedukondalu Panditula,New Zealand,50% Dark Bites,11-Jul-22,"$3,626 ",10
+Sahaj Jonnalagadda,Canada,Caramel Stuffed Bars,02-Mar-22,"$3,346 ",304
+Sreenivasa Naik Gudiwada,Australia,Raspberry Choco,13-Jul-22,"$6,321 ",88
+Nazeer Basha Mustafa,UK,Spicy Special Slims,03-Aug-22,"$9,345 ",133
+Jaipal Potanapudi,UK,Peanut Butter Cubes,01-Mar-22,"$15,008 ",165
+Subbarao Malladi,New Zealand,White Choc,13-Apr-22,"$7,609 ",150
+Suman Katte,Canada,Fruit & Nut Bars,14-Feb-22,"$10,332 ",180
+Raghuveer Yettugunna,India,White Choc,26-Jul-22,$819 ,213
+Dinanath Simhambhatla,UK,Drinking Coco,27-Jan-22,"$5,754 ",133
+Parasuramudu Jamakayala,India,Peanut Butter Cubes,14-Apr-22,$28 ,446
+Vasavi Veeravasarapu,USA,Almond Choco,19-May-22,"$6,440 ",141
+Duran Appala,India,Eclairs,09-Feb-22,"$4,956 ",58
+Dinanath Simhambhatla,UK,Spicy Special Slims,25-May-22,"$2,352 ",58
+Vasavi Veeravasarapu,Australia,Manuka Honey Choco,26-Jan-22,"$3,906 ",76
+Suman Katte,India,White Choc,04-Jul-22,"$1,813 ",296
+Devrat Damarsingh,India,Almond Choco,13-Apr-22,"$11,788 ",73
+Devsena Veluvalapalli,Australia,Smooth Sliky Salty,25-Jan-22,"$5,768 ",119
+Sravanthi Chalaki,USA,85% Dark Bars,25-Apr-22,"$2,401 ",78
+Sravanthi Chalaki,USA,Eclairs,10-Jun-22,"$4,515 ",392
+Sreenivasa Naik Gudiwada,New Zealand,White Choc,22-Aug-22,"$10,794 ",51
+Yedukondalu Panditula,India,After Nines,27-Jun-22,"$13,706 ",207
+Duran Appala,India,Orange Choco,30-Jun-22,"$4,361 ",40
+Parasuramudu Jamakayala,India,Almond Choco,30-Aug-22,"$10,122 ",100
+Sahaj Jonnalagadda,Australia,Raspberry Choco,23-Aug-22,$994 ,57
+Sravanthi Chalaki,New Zealand,99% Dark & Pure,26-Aug-22,"$2,268 ",42
+Devsena Veluvalapalli,Australia,Orange Choco,09-Mar-22,$574 ,156
+Subbarao Malladi,UK,Drinking Coco,20-Apr-22,"$1,792 ",23
+Raghuveer Yettugunna,Canada,Caramel Stuffed Bars,10-Jun-22,"$4,844 ",539
+Duran Appala,Australia,Organic Choco Syrup,08-Feb-22,$938 ,158
+Dinanath Simhambhatla,Australia,White Choc,25-Aug-22,"$4,879 ",22
+Ramalingam Kothapeta,India,Peanut Butter Cubes,16-Feb-22,"$9,107 ",73
+John Joseph,UK,99% Dark & Pure,30-May-22,"$12,187 ",27
+Devsena Veluvalapalli,New Zealand,50% Dark Bites,29-Jun-22,"$5,670 ",64
+Devsena Veluvalapalli,USA,Milk Bars,16-Jun-22,$476 ,133
+Dinanath Simhambhatla,UK,Caramel Stuffed Bars,04-Mar-22,"$2,681 ",149
+Jaipal Potanapudi,New Zealand,Peanut Butter Cubes,15-Mar-22,"$1,533 ",434
+Jaipal Potanapudi,New Zealand,50% Dark Bites,27-Jan-22,"$9,765 ",85
+Suman Katte,Canada,Drinking Coco,05-Jul-22,$994 ,118
+Venkat Kodi,USA,Caramel Stuffed Bars,29-Mar-22,"$3,318 ",299
+Raghuveer Yettugunna,Canada,Almond Choco,12-May-22,"$4,214 ",35
+Vasavi Veeravasarapu,USA,Drinking Coco,11-Mar-22,"$7,714 ",44
+Dinanath Simhambhatla,New Zealand,Eclairs,11-Jul-22,"$4,690 ",299
+Mayur Kousika,New Zealand,Choco Coated Almonds,01-Aug-22,"$13,062 ",62
+Mayur Kousika,UK,Spicy Special Slims,16-Feb-22,"$12,488 ",200
+Jaipal Potanapudi,USA,After Nines,13-Apr-22,"$14,147 ",235
+Vasavi Veeravasarapu,India,Choco Coated Almonds,14-Feb-22,$49 ,363
+Devrat Damarsingh,Australia,Peanut Butter Cubes,14-Mar-22,"$10,199 ",68
+Vasavi Veeravasarapu,Australia,Spicy Special Slims,26-Apr-22,"$11,389 ",26
+Parasuramudu Jamakayala,Canada,Manuka Honey Choco,05-Apr-22,"$3,584 ",200
+Sravanthi Chalaki,Canada,Drinking Coco,03-Mar-22,"$12,481 ",264
+Lalitchandra Vadali,USA,Spicy Special Slims,13-Jun-22,"$2,107 ",175
+Gowri Sankar Chakrala,New Zealand,70% Dark Bites,14-Feb-22,"$8,603 ",352
+Prasanna Lakshmi Payasam,New Zealand,99% Dark & Pure,18-Apr-22,"$7,483 ",183
+Vasavi Veeravasarapu,New Zealand,85% Dark Bars,01-Feb-22,"$3,381 ",417
+Ramalingam Kothapeta,New Zealand,Orange Choco,04-Aug-22,"$2,030 ",146
+Ponnan Delhi,New Zealand,Almond Choco,05-Apr-22,"$6,559 ",158
+Sahaj Jonnalagadda,Australia,99% Dark & Pure,26-Jan-22,"$10,822 ",168
+Lalitchandra Vadali,UK,After Nines,21-Jan-22,"$18,697 ",176
+Lalitchandra Vadali,Canada,After Nines,22-Aug-22,"$5,845 ",172
+Lalitchandra Vadali,UK,Drinking Coco,27-Jan-22,"$2,317 ",224
+Nazeer Basha Mustafa,UK,50% Dark Bites,16-Feb-22,"$10,150 ",68
+Ramalingam Kothapeta,USA,Raspberry Choco,03-Jan-22,"$3,437 ",46
+Sahaj Jonnalagadda,USA,White Choc,24-Aug-22,"$4,592 ",2
+Vasavi Veeravasarapu,USA,Spicy Special Slims,07-Feb-22,"$5,691 ",417
+Raghuveer Yettugunna,Australia,Smooth Sliky Salty,11-Feb-22,"$4,158 ",109
+Lalitchandra Vadali,Canada,Organic Choco Syrup,29-Mar-22,"$5,684 ",81
+Gowri Sankar Chakrala,USA,Peanut Butter Cubes,15-Jun-22,$693 ,350
+John Joseph,UK,Smooth Sliky Salty,26-Apr-22,$546 ,142
+Dinanath Simhambhatla,Australia,Organic Choco Syrup,15-Jul-22,"$4,263 ",264
+Suman Katte,India,Organic Choco Syrup,23-Jun-22,"$1,036 ",20
+John Joseph,Australia,Baker's Choco Chips,11-Jan-22,"$13,846 ",421
+Suman Katte,UK,50% Dark Bites,09-Feb-22,"$2,499 ",271
+Yedukondalu Panditula,UK,Almond Choco,06-Jun-22,"$10,689 ",204
+Ramalingam Kothapeta,UK,Caramel Stuffed Bars,10-Aug-22,"$5,768 ",235
+Oorjit Nandanavanam,Australia,Smooth Sliky Salty,04-Jan-22,"$2,226 ",46
+Ponnan Delhi,Canada,70% Dark Bites,08-Apr-22,"$10,262 ",15
+Venkat Kodi,UK,Milk Bars,02-Mar-22,"$3,864 ",430
+Yedukondalu Panditula,Canada,Drinking Coco,15-Jun-22,"$4,900 ",709
+Parasuramudu Jamakayala,Australia,After Nines,14-Feb-22,"$5,250 ",47
+Duran Appala,UK,After Nines,05-Jul-22,"$3,507 ",380
+Venkat Kodi,India,Mint Chip Choco,12-Jan-22,"$7,413 ",465
+Jaipal Potanapudi,India,Mint Chip Choco,03-Mar-22,"$8,155 ",96
+Parasuramudu Jamakayala,New Zealand,Milk Bars,18-May-22,"$2,478 ",188
+Mayur Kousika,India,Caramel Stuffed Bars,28-Jul-22,"$2,471 ",202
+Jaipal Potanapudi,UK,Manuka Honey Choco,07-Feb-22,"$1,666 ",106
+Ponnan Delhi,India,Orange Choco,30-May-22,$301 ,421
+Raghuveer Yettugunna,Australia,Raspberry Choco,25-Apr-22,"$8,400 ",27
+Suman Katte,Canada,85% Dark Bars,16-Feb-22,"$6,139 ",45
+Subbarao Malladi,Australia,Drinking Coco,04-May-22,"$1,288 ",60
+Yedukondalu Panditula,Canada,70% Dark Bites,02-Jun-22,"$7,077 ",77
+John Joseph,USA,Caramel Stuffed Bars,11-Jul-22,"$2,317 ",464
+Suman Katte,New Zealand,Spicy Special Slims,07-Jun-22,$63 ,60
+Gopal Venkata,UK,Almond Choco,06-Jul-22,"$9,744 ",157
+Duran Appala,India,Raspberry Choco,15-Jun-22,"$9,954 ",154
+Ramalingam Kothapeta,India,Mint Chip Choco,14-Apr-22,"$1,260 ",239
+Sravanthi Chalaki,India,Drinking Coco,08-Aug-22,$469 ,163
+Gowri Sankar Chakrala,UK,Drinking Coco,29-Mar-22,$973 ,28
+Prasanna Lakshmi Payasam,Australia,Organic Choco Syrup,04-Jul-22,"$3,647 ",76
+Devrat Damarsingh,India,99% Dark & Pure,16-Feb-22,$455 ,96
+Nazeer Basha Mustafa,Canada,Spicy Special Slims,02-May-22,"$2,520 ",156
+Yedukondalu Panditula,India,Eclairs,21-Jul-22,"$10,500 ",106
+Mayur Kousika,Australia,99% Dark & Pure,18-Aug-22,"$7,952 ",235
+Lalitchandra Vadali,USA,85% Dark Bars,22-Jun-22,$483 ,259
+Sravanthi Chalaki,UK,Peanut Butter Cubes,19-Jul-22,"$4,872 ",126
+Sreenivasa Naik Gudiwada,UK,Peanut Butter Cubes,12-Aug-22,"$7,756 ",85
+Sreenivasa Naik Gudiwada,USA,Choco Coated Almonds,07-Jun-22,"$5,446 ",132
+Gowri Sankar Chakrala,Canada,Peanut Butter Cubes,08-Mar-22,"$6,594 ",91
+Devrat Damarsingh,Australia,Choco Coated Almonds,08-Apr-22,"$1,470 ",167
+Jaipal Potanapudi,Canada,Eclairs,06-May-22,$721 ,203
+Prasanna Lakshmi Payasam,India,Drinking Coco,31-May-22,"$4,494 ",11
+Yedukondalu Panditula,Australia,Mint Chip Choco,13-Jan-22,"$2,674 ",295
+John Joseph,USA,70% Dark Bites,15-Mar-22,$658 ,77
+Ponnan Delhi,Canada,Peanut Butter Cubes,16-Feb-22,"$1,127 ",319
+Devsena Veluvalapalli,USA,70% Dark Bites,14-Jan-22,"$7,364 ",196
+Nazeer Basha Mustafa,Australia,White Choc,21-Mar-22,"$6,818 ",102
+Prasanna Lakshmi Payasam,Canada,Drinking Coco,17-May-22,"$6,776 ",312
+Sravanthi Chalaki,New Zealand,85% Dark Bars,08-Aug-22,"$15,099 ",55
+Sreenivasa Naik Gudiwada,Canada,Milk Bars,26-Apr-22,"$3,612 ",82
+Sreenivasa Naik Gudiwada,Australia,70% Dark Bites,15-Apr-22,"$3,710 ",260
+Vasavi Veeravasarapu,Canada,Eclairs,19-May-22,"$6,111 ",591
+John Joseph,Canada,Drinking Coco,10-Jan-22,"$2,702 ",24
+Raghuveer Yettugunna,New Zealand,After Nines,04-May-22,$483 ,228
+Prasanna Lakshmi Payasam,Canada,White Choc,05-Apr-22,"$5,887 ",268
+Ponnan Delhi,India,After Nines,17-Jan-22,$952 ,68
+Prasanna Lakshmi Payasam,India,Spicy Special Slims,22-Mar-22,"$10,647 ",173
+Ramalingam Kothapeta,Australia,White Choc,05-Jul-22,"$6,055 ",93
+Vasavi Veeravasarapu,Canada,Orange Choco,27-Apr-22,"$8,757 ",338
+Lalitchandra Vadali,Canada,Almond Choco,12-Aug-22,"$6,055 ",73
+Gopal Venkata,UK,Baker's Choco Chips,11-Mar-22,$721 ,251
+Parasuramudu Jamakayala,UK,Fruit & Nut Bars,13-May-22,"$8,589 ",229
+John Joseph,USA,Smooth Sliky Salty,12-May-22,"$11,781 ",91
+Dinanath Simhambhatla,USA,Raspberry Choco,12-Jan-22,$672 ,194
+Sreenivasa Naik Gudiwada,New Zealand,Milk Bars,29-Mar-22,"$12,558 ",403
+Prasanna Lakshmi Payasam,India,50% Dark Bites,14-Mar-22,"$8,337 ",12
+Venkat Kodi,New Zealand,99% Dark & Pure,24-May-22,"$8,134 ",195
+John Joseph,Canada,Organic Choco Syrup,28-Jan-22,"$8,491 ",75
+Suman Katte,India,Almond Choco,24-May-22,"$3,066 ",96
+Dinanath Simhambhatla,Australia,Peanut Butter Cubes,19-Aug-22,$301 ,205
+Sahaj Jonnalagadda,Australia,Spicy Special Slims,17-May-22,"$4,410 ",323
+Parasuramudu Jamakayala,USA,White Choc,07-Jun-22,"$6,559 ",119
+Devrat Damarsingh,Canada,Organic Choco Syrup,26-Jul-22,$574 ,217
+Ramalingam Kothapeta,India,Eclairs,28-Jul-22,"$2,086 ",384
+Sahaj Jonnalagadda,India,70% Dark Bites,23-May-22,"$5,075 ",344
